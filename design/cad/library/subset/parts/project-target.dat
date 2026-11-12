@@ -1,0 +1,10 @@
+0 Project envelope / fixture: project-target
+0 Name: project-target.dat
+0 Author: EV3 project
+0 !LICENSE CC BY 4.0. Original project envelope, not a LEGO part.
+4 16 -5 -50 -80 -5 50 -80 5 50 -80 5 -50 -80
+4 16 -5 -50 80 5 -50 80 5 50 80 -5 50 80
+4 16 -5 -50 -80 5 -50 -80 5 -50 80 -5 -50 80
+4 16 5 -50 -80 5 50 -80 5 50 80 5 -50 80
+4 16 5 50 -80 -5 50 -80 -5 50 80 5 50 80
+4 16 -5 50 -80 -5 -50 -80 -5 -50 80 -5 50 80

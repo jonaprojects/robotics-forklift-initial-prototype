@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#f4f7fa"/>
+<style>text{font-family:Arial,sans-serif;fill:#183047} .title{font-size:30px;font-weight:bold}.head{font-size:22px;font-weight:bold}.label{font-size:17px}.small{font-size:15px}.line{stroke:#183047;stroke-width:3;fill:none}.link{stroke:#e19a24;stroke-width:10;stroke-linecap:round}.pivot{fill:white;stroke:#183047;stroke-width:3}</style>
+<text x="40" y="48" class="title">EV3 forklift: preliminary low-lift concept</text>
+<text x="40" y="78" class="label">One brick / two drive motors / one lift motor / fixed camera</text>
+<text x="40" y="125" class="head">TOP VIEW</text>
+<rect x="90" y="180" width="400" height="235" rx="12" fill="#dce6ef" stroke="#183047" stroke-width="3"/>
+<rect x="120" y="230" width="145" height="130" rx="8" fill="#8faabd"/>
+<text x="143" y="286" class="label">EV3 brick</text><text x="140" y="312" class="small">low, at rear</text>
+<circle cx="115" cy="297" r="13" fill="#183047"/>
+<rect x="360" y="150" width="75" height="45" rx="8" fill="#183047"/>
+<rect x="360" y="400" width="75" height="45" rx="8" fill="#183047"/>
+<text x="350" y="135" class="small">Drive wheels</text>
+<rect x="440" y="225" width="52" height="145" fill="#e19a24"/>
+<rect x="490" y="250" width="130" height="16" fill="#183047"/>
+<rect x="490" y="330" width="130" height="16" fill="#183047"/>
+<rect x="560" y="211" width="175" height="175" fill="#67b59b" fill-opacity=".35" stroke="#32876c" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="582" y="300" class="label">Pallet</text>
+<path d="M490 475H650" class="line"/><path d="m650 475-14-7m14 7-14 7" class="line"/>
+<text x="490" y="503" class="label">Forward / pickup</text>
+<text x="90" y="455" class="small">Rear caster</text><path d="M112 435V325" class="line"/>
+<text x="780" y="135" class="head">FIRST BUILD TARGETS</text>
+<text x="780" y="175" class="label">Chassis: about 240 x 180 mm</text>
+<text x="780" y="210" class="label">Pallet: about 80 x 64 mm</text>
+<text x="780" y="245" class="label">Fork centers: 32 mm apart</text>
+<text x="780" y="280" class="label">Lift travel: about 25-30 mm</text>
+<text x="780" y="315" class="label">Initial cube payload: 50 g</text>
+<text x="780" y="350" class="small">Pallet mass is additional.</text>
+<text x="780" y="385" class="small">Targets require laboratory testing.</text>
+<text x="40" y="550" class="head">LIFT MODULE: SIDE VIEW</text>
+<path d="M55 742H690" stroke="#9aaaba" stroke-width="3"/>
+<rect x="120" y="595" width="36" height="142" fill="#8faabd"/>
+<path d="M155 620L337 652M155 688L337 720" class="link"/>
+<path d="M337 652V728H530" stroke="#183047" stroke-width="10" fill="none"/>
+<circle cx="155" cy="620" r="7" class="pivot"/><circle cx="155" cy="688" r="7" class="pivot"/><circle cx="337" cy="652" r="7" class="pivot"/><circle cx="337" cy="720" r="7" class="pivot"/>
+<path d="M155 620L321 543M155 688L321 611M321 543V619H514" stroke="#32876c" stroke-width="6" stroke-dasharray="9 7" fill="none"/>
+<text x="350" y="575" class="small">Raised position (exaggerated)</text>
+<text x="350" y="700" class="small">Level forks</text>
+<text x="56" y="780" class="small">Equal upper/lower links on BOTH sides. Gear motor drives the shared lower-link axle.</text>
+<text x="780" y="550" class="head">CAMERA / NAVIGATION</text>
+<text x="780" y="590" class="label">Color sensor: route following</text>
+<text x="780" y="625" class="label">Camera: station alignment</text>
+<text x="780" y="660" class="small">Camera model and interface to confirm.</text>
+<text x="780" y="715" class="small">Concept drawing; not to scale.</text>
+<text x="780" y="745" class="small">Short parallel lift, not a vertical mast.</text>
+<text x="780" y="775" class="small">V0.1 / team discussion</text>
+</svg>

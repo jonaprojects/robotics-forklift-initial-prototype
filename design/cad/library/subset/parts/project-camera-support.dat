@@ -1,0 +1,10 @@
+0 Project envelope / fixture: project-camera-support
+0 Name: project-camera-support.dat
+0 Author: EV3 project
+0 !LICENSE CC BY 4.0. Original project envelope, not a LEGO part.
+4 16 -15 -15 -27.5 -15 15 -27.5 15 15 -27.5 15 -15 -27.5
+4 16 -15 -15 27.5 15 -15 27.5 15 15 27.5 -15 15 27.5
+4 16 -15 -15 -27.5 15 -15 -27.5 15 -15 27.5 -15 -15 27.5
+4 16 15 -15 -27.5 15 15 -27.5 15 15 27.5 15 -15 27.5
+4 16 15 15 -27.5 -15 15 -27.5 -15 15 27.5 15 15 27.5
+4 16 -15 15 -27.5 -15 -15 -27.5 -15 -15 27.5 -15 15 27.5

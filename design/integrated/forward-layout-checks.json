@@ -1,0 +1,121 @@
+{
+  "checks": [
+    {
+      "check": "Raised input frame bore L",
+      "status": "PASS"
+    },
+    {
+      "check": "Raised input frame bore R",
+      "status": "PASS"
+    },
+    {
+      "check": "Lift motor / tire vertical clearance",
+      "status": "PASS",
+      "gap_mm": 16.146082278693356
+    },
+    {
+      "check": "New 40T/24T stage center-plane sections",
+      "status": "PASS",
+      "samples": [
+        {
+          "pose": 14,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 15,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 16,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 17,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 18,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 19,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 20,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 21,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 22,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 23,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 24,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 25,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 26,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 27,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 28,
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        }
+      ]
+    },
+    {
+      "check": "Six-pose floor intrusion audit",
+      "status": "PASS",
+      "intrusions": []
+    }
+  ],
+  "balance": {
+    "status": "HISTORICAL ASSUMPTION CASE ONLY - not valid mass data for custom chassis I0.3",
+    "drive_axle_x_mm": 64,
+    "chassis_mass_kg": 0.85,
+    "chassis_cg_x_mm": -37.95294117647059,
+    "fixed_lift_mass_kg": 0.18,
+    "fixed_lift_cg_x_mm": 76,
+    "moving_lift_mass_kg": 0.08,
+    "moving_lift_cg_x_mm": 161,
+    "pallet_load_mass_kg": 0.1,
+    "pallet_load_cg_x_mm": 219.72943811855407,
+    "restoring_kg_m": 0.08666,
+    "overturning_kg_m": 0.02549294381185541,
+    "moment_ratio": 3.399372023865641,
+    "target_ratio": 1.5,
+    "measured": false
+  },
+  "overall": "HOLD - mounting, complete stock and full-body verification remain open"
+}

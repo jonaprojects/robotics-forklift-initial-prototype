@@ -1,0 +1,50 @@
+[
+  {
+    "file": "EV3-Integrated-Viewer.html",
+    "sha256": "1f27e56c21fb6ae3ad1417c0aa2e2460f4ea1d836db2462ca52f8146c54afb78"
+  },
+  {
+    "file": "robot-station.mpd",
+    "sha256": "6e61a3d5634337164a1fa5989bcecec341685ae934c40e7481e48c53c93ff204"
+  },
+  {
+    "file": "robot-station.ldr",
+    "sha256": "87a97b6a529d118fe374bea5dfceef22ec09c5674904d29ca76d39c1627f547c"
+  },
+  {
+    "file": "assembly-initial.json",
+    "sha256": "11f3dd363603602a9dced0afdf92b505ef0a506fc5b045b0bcc3e4bb48721953"
+  },
+  {
+    "file": "sequence.json",
+    "sha256": "96ba0d396d752296b2c93439bd75287a4bc4f065ebfce39c524142dc9a68fc04"
+  },
+  {
+    "file": "layout-parts.csv",
+    "sha256": "789b5ebcef5b7e03743d7be4890ce8aeba9fac8d6b643dab8829fa7b5f2e4ecc"
+  },
+  {
+    "file": "integration-checks.json",
+    "sha256": "d43e28fc4236ff1bda9a00dee6b62cc6484c9feaad37ac6f5b5483b3a25edde4"
+  },
+  {
+    "file": "forward-layout-checks.json",
+    "sha256": "69d5d9a00ee8c5a766a21d32db4037eb2f684c873427cc5a1a2d7489d461c629"
+  },
+  {
+    "file": "floor-and-balance.json",
+    "sha256": "62f4d18084909f721f88fd4ca3fc38507d31e84c1eb48a4e7e3226bbdf507da6"
+  },
+  {
+    "file": "Integrated-Review.md",
+    "sha256": "f06d0c0737e3aa10b7247bea11ea7ef9d4812eafc52749b1ade47ff87e5c7bb7"
+  },
+  {
+    "file": "browser-checks.json",
+    "sha256": "ce709f108067b0f18e33cfbe1fabbf49929c9c2512cddf18ac15c362f5d83644"
+  },
+  {
+    "file": "verify_viewer.ps1",
+    "sha256": "677d9c8d75a3689fc0b95a595ced676a2a4263c735aaa263faf3dae1590cde03"
+  }
+]

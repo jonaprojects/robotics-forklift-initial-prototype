@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+checks-browser-profile/
+viewer-dom-*.txt
+viewer-stderr-*.txt
+viewer-dom-check.txt
+viewer-browser-stderr.txt
+guide-*-dom.txt
+guide-*-err.txt
+checks-guide-section.html
+_site/
+.env
+.env.*
+!.env.example

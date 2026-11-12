@@ -1,0 +1,35 @@
+{
+  "viewerSha256": "FA6782D56C6F31682961F412D4400D6D041A99C94C3C26D093D351198C5DF813",
+  "checks": [
+    {
+      "name": "lowered",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-build=\"0\" data-render=\"ok\" data-pose=\"0\" data-gl-error=\"0\">"
+    },
+    {
+      "name": "carrying",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-build=\"0\" data-render=\"ok\" data-pose=\"38\" data-gl-error=\"0\">"
+    },
+    {
+      "name": "gears",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-build=\"0\" data-render=\"ok\" data-pose=\"0\" data-gl-error=\"0\">"
+    },
+    {
+      "name": "step-touch",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-build=\"13\" data-render=\"ok\" data-pose=\"0\" data-gl-error=\"0\">"
+    },
+    {
+      "name": "step-camera",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-build=\"19\" data-render=\"ok\" data-pose=\"0\" data-gl-error=\"0\">"
+    }
+  ]
+}

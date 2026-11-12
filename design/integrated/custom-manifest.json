@@ -1,0 +1,50 @@
+[
+  {
+    "file": "EV3-Integrated-Viewer.html",
+    "sha256": "fd4c731d0c9de98d0adc9e2b0ace836fe7240e2a54f15b46d8f41ef6bc5a9e16"
+  },
+  {
+    "file": "robot-station.mpd",
+    "sha256": "9eacf4c582a5d9dc6ee580c93b9a103ccdea14c482183d0a807de1bac25d1d78"
+  },
+  {
+    "file": "robot-station.ldr",
+    "sha256": "93657d42303c44df9ae94f90aab72a568fd613bead74b7896bcdf005d626d298"
+  },
+  {
+    "file": "assembly-initial.json",
+    "sha256": "481c26cda9b9b67c2a7a7f146ac20966d0e7fb84463faf62cc0bc94b4ea06e05"
+  },
+  {
+    "file": "sequence.json",
+    "sha256": "609093a770134f35d8f35a8be514203a64255e4ce31688a9fc076d844384faff"
+  },
+  {
+    "file": "catalog-parts.csv",
+    "sha256": "af170efcd26825ef83e2242a18e628be652a5a469665d9537e4d2b881e2c3445"
+  },
+  {
+    "file": "integration-checks.json",
+    "sha256": "0d7bf015903ac332fee52adab4103762f93ecda2a103d0a8d37b9ef0375f1d3c"
+  },
+  {
+    "file": "custom-chassis-checks.json",
+    "sha256": "a1c544dcd01bdb9d270a69f15e14058a4f2df58e6fb8ab57ab6e227f69bb8e08"
+  },
+  {
+    "file": "forward-layout-checks.json",
+    "sha256": "871fd27c26d22853b4f5de43432ed5b6e0a3afabcf9a3905bbad6f3cf4a9f867"
+  },
+  {
+    "file": "Custom-Chassis-Review.md",
+    "sha256": "510726eb33b3be1bb78995b277d14443c1d09711bcce4b95aa9a12939654b068"
+  },
+  {
+    "file": "browser-checks.json",
+    "sha256": "0c76c5832c7d96e3603a7116f68052f3c3151c8d53a09269578132bcf015fc4e"
+  },
+  {
+    "file": "verify_viewer.ps1",
+    "sha256": "677d9c8d75a3689fc0b95a595ced676a2a4263c735aaa263faf3dae1590cde03"
+  }
+]

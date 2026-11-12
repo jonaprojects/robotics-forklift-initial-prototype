@@ -1,0 +1,38 @@
+LEGO design file,Physical quantity,Description
+2780.dat,55,Technic Pin with Friction and Slots
+32017.dat,8,Technic Beam  5 x  0.5
+32073.dat,2,Technic Axle  5
+32278.dat,10,Technic Beam 15
+32316.dat,2,Technic Beam  5
+32523.dat,2,Technic Beam  3
+32524.dat,5,Technic Beam  7
+32525.dat,1,Technic Beam 11
+32526.dat,10,Technic Beam  3 x  5 Bent 90
+3647.dat,2,Technic Gear  8 Tooth
+3648.dat,3,Technic Gear 24 Tooth (3648b alias)
+3649.dat,1,Technic Gear 40 Tooth
+3673.dat,4,Technic Pin
+3706.dat,4,Technic Axle  6
+3707.dat,5,Technic Axle  8
+3708.dat,5,Technic Axle 12
+3713.dat,33,Technic Bush with Two Flanges
+3737.dat,2,Technic Axle 10
+40490.dat,9,Technic Beam  9
+41897.dat,2,Tyre 28/ 23 x 43 ZR Street
+4265c.dat,63,Technic Half Bush (32123 alias)
+44294.dat,9,Technic Axle  7
+56908.dat,2,Wheel Rim 26 x 43 with 6 Spokes and 6 Pegholes
+59443.dat,8,Technic Axle Joiner Inline Smooth
+60483.dat,9,Technic Beam  2 Liftarm
+60485.dat,6,Technic Axle  9
+62462.dat,43,Technic Pin Joiner Round with Slot
+64179.dat,3,Technic Beam  7 x  5 with Open Center  5 x  3
+6536.dat,6,Technic Cross Block 1 x 2 (Axle/Pin)
+6558.dat,7,Technic Pin Long with Friction and Slot
+92911.dat,1,Technic Ball Joint  2.25 Diameter Socket
+95646.dat,1,Electric Mindstorms EV3
+95648.dat,1,Electric Mindstorms EV3 Touch Sensor
+95650.dat,1,Electric Mindstorms EV3 Colour Sensor
+95658.dat,2,Electric Mindstorms EV3 Large Motor
+99455.dat,1,Electric Mindstorms EV3 Medium Motor
+99948.dat,1,Technic Steel Ball 18mm for Ball Castor

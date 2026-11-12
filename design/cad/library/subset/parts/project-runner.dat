@@ -1,0 +1,10 @@
+0 Project envelope / fixture: project-runner
+0 Name: project-runner.dat
+0 Author: EV3 project
+0 !LICENSE CC BY 4.0. Original project envelope, not a LEGO part.
+4 16 -80 -20 -20 -80 20 -20 80 20 -20 80 -20 -20
+4 16 -80 -20 20 80 -20 20 80 20 20 -80 20 20
+4 16 -80 -20 -20 80 -20 -20 80 -20 20 -80 -20 20
+4 16 80 -20 -20 80 20 -20 80 20 20 80 -20 20
+4 16 80 20 -20 -80 20 -20 -80 20 20 80 20 20
+4 16 -80 20 -20 -80 -20 -20 -80 -20 20 -80 20 20

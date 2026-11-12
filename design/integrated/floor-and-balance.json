@@ -1,0 +1,30 @@
+{
+  "floor_samples": [
+    0,
+    14,
+    28,
+    49,
+    63,
+    70
+  ],
+  "floor_intrusions": [],
+  "balance": {
+    "status": "FAIL UNDER ASSUMPTIONS - not measured robot",
+    "mass_kg": {
+      "chassis": 0.85,
+      "fixed_lift": 0.18,
+      "moving_lift": 0.08,
+      "pallet_plus_load": 0.1
+    },
+    "cg_x_mm": {
+      "chassis": -50,
+      "fixed_lift": 76,
+      "moving_lift": 161,
+      "pallet_plus_load": 259
+    },
+    "restoring_kg_m": 0.0425,
+    "overturning_kg_m": 0.05246000000000001,
+    "static_moment_ratio": 0.8101410598551276,
+    "chassis_cg_required_for_ratio_1_5_mm": 92.5764705882353
+  }
+}

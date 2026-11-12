@@ -1,0 +1,10 @@
+0 Project envelope / fixture: project-pallet-deck
+0 Name: project-pallet-deck.dat
+0 Author: EV3 project
+0 !LICENSE CC BY 4.0. Original project envelope, not a LEGO part.
+4 16 -80 -100 -10 -80 100 -10 80 100 -10 80 -100 -10
+4 16 -80 -100 10 80 -100 10 80 100 10 -80 100 10
+4 16 -80 -100 -10 80 -100 -10 80 -100 10 -80 -100 10
+4 16 80 -100 -10 80 100 -10 80 100 10 80 -100 10
+4 16 80 100 -10 -80 100 -10 -80 100 10 80 100 10
+4 16 -80 100 -10 -80 -100 -10 -80 -100 10 -80 100 10

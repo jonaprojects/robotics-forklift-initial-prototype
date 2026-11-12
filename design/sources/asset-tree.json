@@ -1,0 +1,6002 @@
+[
+  {
+    "type": "directory",
+    "oid": "0c578c4f922dfa9551a977c496e0607503ac7de9",
+    "size": 0,
+    "path": "parts/booster_t1"
+  },
+  {
+    "type": "directory",
+    "oid": "0f4e18218b8046e142899799a14c1690910e3a75",
+    "size": 0,
+    "path": "parts/gobilda_gripforce_mecanum_104mm_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "2168e88749e3424d4aea1b776e03c5616ed1c18d",
+    "size": 0,
+    "path": "parts/gobilda_gripforce_mecanum_104mm_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "0c4804d3ba1e71016fffa770ca1f8bdb17f16041",
+    "size": 0,
+    "path": "parts/gobilda_strafer_chassis_kit_104mm"
+  },
+  {
+    "type": "directory",
+    "oid": "0a35d2f113454daf6b04e4ad8030f705fbebc97a",
+    "size": 0,
+    "path": "parts/hello_robot_pg4_parallel_gripper"
+  },
+  {
+    "type": "directory",
+    "oid": "a6e30e62e880754595acf7bd56e506087f88b73e",
+    "size": 0,
+    "path": "parts/hello_robot_stretch4_omni_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "b3436e2d3f0aaddabd4f7f05fd8562ed1c364577",
+    "size": 0,
+    "path": "parts/hiwonder_520_gearmotor_90_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "34ca270f890766a1a80541cdc44b9c0a6b1e1a5a",
+    "size": 0,
+    "path": "parts/hiwonder_520_gearmotor_90_12v_legacy"
+  },
+  {
+    "type": "directory",
+    "oid": "879c8fcdde746fe54c6a25fbbcb6b90ee3916258",
+    "size": 0,
+    "path": "parts/hiwonder_7_4v_2200mah_battery"
+  },
+  {
+    "type": "directory",
+    "oid": "c4846b07994c0caa667bb99d50ce96c4fc22fdbc",
+    "size": 0,
+    "path": "parts/hiwonder_ackermann_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "282c400f6a891acca08a46c8f796a3091e38781e",
+    "size": 0,
+    "path": "parts/hiwonder_ackermann_chassis_double"
+  },
+  {
+    "type": "directory",
+    "oid": "dcd127399d2e21250f99d70ed4005b554c4f7616",
+    "size": 0,
+    "path": "parts/hiwonder_ackermann_chassis_double_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "dcd127399d2e21250f99d70ed4005b554c4f7616",
+    "size": 0,
+    "path": "parts/hiwonder_ackermann_chassis_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "e7deab844a81d403aee244cc47649fe2f1d79d98",
+    "size": 0,
+    "path": "parts/hiwonder_armpi_fpv_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "dc083b9ff85fa5462713b498fe4b82b70a61c214",
+    "size": 0,
+    "path": "parts/hiwonder_armpi_ultra_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "879c8fcdde746fe54c6a25fbbcb6b90ee3916258",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_battery"
+  },
+  {
+    "type": "directory",
+    "oid": "035743e783a00604915fa7516656649dde590ab7",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "d381cb71c79bebc827bedb89c58af5e018746fa7",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "49edcd6b1aa459f839c969a6ed0f140ea3539a1a",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_claw"
+  },
+  {
+    "type": "directory",
+    "oid": "c7438875d5bfe6394965daaaf87119cdae317b4f",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_grey_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "76e19c216506f2b84bc24591779787b1adec09c3",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_grey_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "1e5073a9d23e4f1572fd596aed4272a4678f3da5",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_grey_claw"
+  },
+  {
+    "type": "directory",
+    "oid": "c24d926d22b70cc1060df1853bc1356be633a861",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_grey_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "6aac08e6a398e75cccdc596df5d015fadc17b080",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_grey_mecanum_wheel_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "075b54b98626a5c0c8512533e20ffc7ec2269dd0",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_grey_mecanum_wheel_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "c24d926d22b70cc1060df1853bc1356be633a861",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "6cac725a303cc93e8a12b1f31d72e160cfea830f",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_mecanum_wheel_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "57a4fac420913d71644817af2ba5e35855fa0127",
+    "size": 0,
+    "path": "parts/hiwonder_clawpi_mecanum_wheel_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "170834a472e1586db8119db5bb078cb67d838e14",
+    "size": 0,
+    "path": "parts/hiwonder_jetacker_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "0859302f1f761a59c0185045049f5c598186b0d2",
+    "size": 0,
+    "path": "parts/hiwonder_jetacker_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "581ccf12b00c67c8953fb23bd69124f5b8fef6f1",
+    "size": 0,
+    "path": "parts/hiwonder_jetacker_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "6d4d2c407dbb11ffa9c9741448e87c7dba190697",
+    "size": 0,
+    "path": "parts/hiwonder_jetauto_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "ddfccb0e8734c2c5674e2f1399fc556272b47794",
+    "size": 0,
+    "path": "parts/hiwonder_jetauto_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "b5fef255f95062bfe17896292d25994921126df5",
+    "size": 0,
+    "path": "parts/hiwonder_jetauto_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "30fdad301dab86b79de9532031b5200c1ec67eda",
+    "size": 0,
+    "path": "parts/hiwonder_jetauto_mecanum_wheel_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "c54b0cc870a58f27b841aebd40ebf3cdf6d39393",
+    "size": 0,
+    "path": "parts/hiwonder_jetauto_mecanum_wheel_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "5b86baa0826ffe49d505e1fd60fa3254a604f3f3",
+    "size": 0,
+    "path": "parts/hiwonder_jetauto_screen"
+  },
+  {
+    "type": "directory",
+    "oid": "dc5d6d92b68aca32c991cd05f7eb1cc92dde8933",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_acker_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "99b9a21ee9e4da9c69115827a5c3fb263fb4c68a",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_acker_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "a42dec9e1b1b99a9c8cb9f194e9e245822167ae4",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_acker_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "65af8250bd4f66310486227af9e59ee22c24eaf5",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_acker_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "032ded52db8fdb18bc92b3f71e1fad4819c0644a",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "88a089a5a91d40b06a6410384eeddf68b331eec7",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "a42dec9e1b1b99a9c8cb9f194e9e245822167ae4",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "65af8250bd4f66310486227af9e59ee22c24eaf5",
+    "size": 0,
+    "path": "parts/hiwonder_jetrover_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "e8c99f612501862ddb8416f5eb83014bb234edd0",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_acker_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "20a0c44ed9710c58513798e4ebf51cc9fa558754",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_acker_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "0474d23e2462d5d7249e0cb7f41476db9f60078c",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_acker_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "72bdfc0a452cac6c593ec772c05263bace25bb34",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_acker_front_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "048565d601ea535ec8d2aef9976ff007a96448ca",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_acker_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "493e647be1fa114d7284b3757748958545972099",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_acker_rear_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "e8c99f612501862ddb8416f5eb83014bb234edd0",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "f74c0c7201c24572fa2aabe15c466062675bab97",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "0474d23e2462d5d7249e0cb7f41476db9f60078c",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "048565d601ea535ec8d2aef9976ff007a96448ca",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "f40b6c6bca802cc3ad605bbb49dfe2b76e543f6b",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_mecanum_wheel_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "41b4c7f1b28c356c371b3231a91b1463192ffd27",
+    "size": 0,
+    "path": "parts/hiwonder_landerpi_mecanum_wheel_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "d9d717349e5894ffc3965d48f5143e212b0c5646",
+    "size": 0,
+    "path": "parts/hiwonder_large_metal_4wd_chassis_green"
+  },
+  {
+    "type": "directory",
+    "oid": "4776290dac01f0b5db42372aa6e41881fab57c90",
+    "size": 0,
+    "path": "parts/hiwonder_mecanum_wheel_80mm_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "76b0b42aa4e3d9c3de32e3aa4166bfbad09d1903",
+    "size": 0,
+    "path": "parts/hiwonder_mecanum_wheel_80mm_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "30fdad301dab86b79de9532031b5200c1ec67eda",
+    "size": 0,
+    "path": "parts/hiwonder_mecanum_wheel_97mm_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "c54b0cc870a58f27b841aebd40ebf3cdf6d39393",
+    "size": 0,
+    "path": "parts/hiwonder_mecanum_wheel_97mm_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "c2efe28d467f48f1de5a6da66a8c4d4c7be27c6b",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_a1_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "60d581816437b0e59e461c0ef07a69dafaf2d2d3",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_a1_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "72bdfc0a452cac6c593ec772c05263bace25bb34",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_a1_front_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "da8ff0b518f8d17f8d94d6166a932772c76e9a01",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_a1_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "493e647be1fa114d7284b3757748958545972099",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_a1_rear_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "799516c1aee349146a4d7424d0decf08ad5dc9b3",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_m1_battery"
+  },
+  {
+    "type": "directory",
+    "oid": "434cb8ef52757fd52eecc29883295653d039d623",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_m1_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "2f093091e1781baa469c797361fa7eee29256770",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_m1_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "72d83126ba0cb527a7c3d750e08e2070837b4708",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_m1_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5d6da4fad1b70400d964a6a8b27e1995525524",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_m1_mecanum_wheel_fl_rr"
+  },
+  {
+    "type": "directory",
+    "oid": "c9f1b1be4e224b375bbe7058fe4100e87a833875",
+    "size": 0,
+    "path": "parts/hiwonder_mentorpi_m1_mecanum_wheel_fr_rl"
+  },
+  {
+    "type": "directory",
+    "oid": "caa6c73d0b2d223eab5499fdea4a1640d84d9dd9",
+    "size": 0,
+    "path": "parts/hiwonder_nexarm_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "2923242458cda469272bcfe57c87c836f7801865",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_acker_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "71d49ab605c270adc323a765911454c780f2ecb8",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_advanced_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "694aaaa507c857056c4f5ea52e783b01b75d47cc",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_advanced_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "43fc0d6c7be28e4377d32fa9faf4ca187092ef1d",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_battery"
+  },
+  {
+    "type": "directory",
+    "oid": "816b8520304d8a3805fbed45cd3b5b05e1177f16",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "71d49ab605c270adc323a765911454c780f2ecb8",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_depth_camera"
+  },
+  {
+    "type": "directory",
+    "oid": "2607b72cc2bafbaca9c588f141eeb3de5eecbb6d",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_diff_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "694aaaa507c857056c4f5ea52e783b01b75d47cc",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_lidar"
+  },
+  {
+    "type": "directory",
+    "oid": "bcbb57ddd7ae0755e7b34284d1ee0339b5b8ecef",
+    "size": 0,
+    "path": "parts/hiwonder_rosorin_rubber_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "d3759695f2c3a57ce06001b73231d571f8087585",
+    "size": 0,
+    "path": "parts/hiwonder_rubber_wheel_100mm"
+  },
+  {
+    "type": "directory",
+    "oid": "5b86baa0826ffe49d505e1fd60fa3254a604f3f3",
+    "size": 0,
+    "path": "parts/hiwonder_touch_screen_7inch"
+  },
+  {
+    "type": "directory",
+    "oid": "ed6e1f23b04fb5ba3337fb67f9e2cbfa055712c0",
+    "size": 0,
+    "path": "parts/husarion_lynx_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "8b90ee21ca5ef9a061866f1272f48e57f65fa78f",
+    "size": 0,
+    "path": "parts/husarion_lynx_wh05_wheel_left"
+  },
+  {
+    "type": "directory",
+    "oid": "6b953b71d568059f7a4463635131515434715078",
+    "size": 0,
+    "path": "parts/husarion_lynx_wh05_wheel_right"
+  },
+  {
+    "type": "directory",
+    "oid": "c7dafc1bfa12f901ee4972eec2feacdc0e4f48f9",
+    "size": 0,
+    "path": "parts/husarion_panther_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "55a1319452e4c506bc84e248fa89be62a755ceee",
+    "size": 0,
+    "path": "parts/husarion_panther_wh01_wheel_front_left"
+  },
+  {
+    "type": "directory",
+    "oid": "4a571a34d3542112937515d1f469efe1c8981df3",
+    "size": 0,
+    "path": "parts/husarion_panther_wh01_wheel_front_right"
+  },
+  {
+    "type": "directory",
+    "oid": "f0fe8e5a5a13a03d1bd316b8964440cf83f40f5f",
+    "size": 0,
+    "path": "parts/husarion_panther_wh01_wheel_rear_left"
+  },
+  {
+    "type": "directory",
+    "oid": "1a1e830fd76a3638ef647a1c2f5e6ebf60660bfb",
+    "size": 0,
+    "path": "parts/husarion_panther_wh01_wheel_rear_right"
+  },
+  {
+    "type": "directory",
+    "oid": "60265c84ab42c67cf73fa6785c1e72f399eb8139",
+    "size": 0,
+    "path": "parts/husarion_rosbot3_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "3001af76032ab4f1b46736d498546b21ab129cbd",
+    "size": 0,
+    "path": "parts/husarion_rosbot3_standard_wheel_left"
+  },
+  {
+    "type": "directory",
+    "oid": "e65bf1c53b4734bec4f13652ddcce919b31503a5",
+    "size": 0,
+    "path": "parts/husarion_rosbot3_standard_wheel_right"
+  },
+  {
+    "type": "directory",
+    "oid": "fef62155340fbb9159fe881becc1ebdb72481961",
+    "size": 0,
+    "path": "parts/husarion_rosbot_xl_mecanum_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "4cea10d5d37af3ee25c5dddb296ea134c491950c",
+    "size": 0,
+    "path": "parts/husarion_rosbot_xl_mecanum_wheel_front_left"
+  },
+  {
+    "type": "directory",
+    "oid": "6e431f82871a500b3e77927031f0b0873b817cb2",
+    "size": 0,
+    "path": "parts/husarion_rosbot_xl_mecanum_wheel_front_right"
+  },
+  {
+    "type": "directory",
+    "oid": "83adddd12e7d1be78fd685800b10463450283d32",
+    "size": 0,
+    "path": "parts/husarion_rosbot_xl_mecanum_wheel_rear_left"
+  },
+  {
+    "type": "directory",
+    "oid": "b0ac7bfc53d297ee016a3ff3f829468b8a71fcb5",
+    "size": 0,
+    "path": "parts/husarion_rosbot_xl_mecanum_wheel_rear_right"
+  },
+  {
+    "type": "directory",
+    "oid": "434195d1ac19377c35159c132ea0a350af462f04",
+    "size": 0,
+    "path": "parts/husarion_rplidar_a2m12"
+  },
+  {
+    "type": "directory",
+    "oid": "c16ef3142addf1e537bd8be51c1858feb47a7269",
+    "size": 0,
+    "path": "parts/husarion_rplidar_a3m1"
+  },
+  {
+    "type": "directory",
+    "oid": "fb3996e4b59ec5ea4a90d3122af89dda752d9ca0",
+    "size": 0,
+    "path": "parts/husarion_rplidar_lpx_t1"
+  },
+  {
+    "type": "directory",
+    "oid": "482cb6f611069ce4d4208617639ea23a25f38bba",
+    "size": 0,
+    "path": "parts/husarion_rplidar_s2m1"
+  },
+  {
+    "type": "directory",
+    "oid": "447bc6cc3ed8c0128efda10aba8c095432ade1f0",
+    "size": 0,
+    "path": "parts/husarion_rplidar_s3"
+  },
+  {
+    "type": "directory",
+    "oid": "9885684189568e240195433b4e2003afb44fec01",
+    "size": 0,
+    "path": "parts/lego_42065_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "290cbb4aa59db7ad102494ee1b768eb7de120e2d",
+    "size": 0,
+    "path": "parts/lego_42065_track_left"
+  },
+  {
+    "type": "directory",
+    "oid": "dc9c57a9f3bacc5f86c687c6933206761a132c95",
+    "size": 0,
+    "path": "parts/lego_42065_track_right"
+  },
+  {
+    "type": "directory",
+    "oid": "fb8065a81b582f3cdede1b48201fcd6c89f8ace4",
+    "size": 0,
+    "path": "parts/lego_42095_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "f4ee3f7eae48377411f7b1cfdc8914fe5130c58b",
+    "size": 0,
+    "path": "parts/lego_42095_track_left"
+  },
+  {
+    "type": "directory",
+    "oid": "3625a17f0aa8ce4368fd94e0f4a4169fc271c270",
+    "size": 0,
+    "path": "parts/lego_42095_track_right"
+  },
+  {
+    "type": "directory",
+    "oid": "5b02c3a8c759497bba26d9ebe5fcd30cd135442c",
+    "size": 0,
+    "path": "parts/lego_42099_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "6257528fe7105899ae20d69ef87f021dc44fe80f",
+    "size": 0,
+    "path": "parts/lego_42099_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "5b7a71cb37bd13e7d9a4f5972defb92828e82f02",
+    "size": 0,
+    "path": "parts/lego_42109_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "975c4383b078f66aa65ee5fd9a874a7c52f46dc1",
+    "size": 0,
+    "path": "parts/lego_42109_front_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "a89d2779201d0f0b88fcff3172ce694f0eed7564",
+    "size": 0,
+    "path": "parts/lego_42109_rear_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "aafea652747655da9d0001baf1765b637021f476",
+    "size": 0,
+    "path": "parts/lego_42124_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "65f5d1f675c4e08048f51929ed23a9310a027504",
+    "size": 0,
+    "path": "parts/lego_42124_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "f2bd9d03c7d5f8949d240b412d11e28f54101405",
+    "size": 0,
+    "path": "parts/lego_42129_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "6a858803411b53ca60c2c1d4545dda081b18b5dd",
+    "size": 0,
+    "path": "parts/lego_42129_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "398d81d5b5374c5ac13837a8dba8ad3fddda918a",
+    "size": 0,
+    "path": "parts/lego_45544_driving_base_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "0340be7c7e6422110b95edc74188221945b319c9",
+    "size": 0,
+    "path": "parts/lego_45544_driving_base_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "611c9869296d9c833d40a6bf41a24d63e9c196b1",
+    "size": 0,
+    "path": "parts/lego_45544_touch_sensor"
+  },
+  {
+    "type": "directory",
+    "oid": "37ca94482573f9b7da22038a3ba30c1f7c5c98cd",
+    "size": 0,
+    "path": "parts/lego_45544_ultrasonic_sensor"
+  },
+  {
+    "type": "directory",
+    "oid": "3d01700a7ac4b400a03311e5734e9f6ec4b4baa1",
+    "size": 0,
+    "path": "parts/lego_45678_distance_sensor"
+  },
+  {
+    "type": "directory",
+    "oid": "dc2b4d56beafaf7cc53a48591652e50b211887b7",
+    "size": 0,
+    "path": "parts/lego_45678_driving_base_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "e48170981f90723e67155f471d4c7a45f47f9b4e",
+    "size": 0,
+    "path": "parts/lego_45678_driving_base_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "b2078db1331006189c715ebaeeec3c14b021bbf6",
+    "size": 0,
+    "path": "parts/lego_8527_touch_sensor"
+  },
+  {
+    "type": "directory",
+    "oid": "e600b01c3cc6c6eb9b8de28ec6d0133de1aed4bd",
+    "size": 0,
+    "path": "parts/lego_8527_tribot_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "fe026e0c5b2bb6d08c656aa45334609e246e2f7d",
+    "size": 0,
+    "path": "parts/lego_8527_tribot_wheel"
+  },
+  {
+    "type": "directory",
+    "oid": "d731e5535fb4dacdb2b2d0215fb7c34853c521a1",
+    "size": 0,
+    "path": "parts/lego_8527_ultrasonic_sensor"
+  },
+  {
+    "type": "directory",
+    "oid": "2f9c9d93f2e910f651507868e29f7023ad26e847",
+    "size": 0,
+    "path": "parts/lego_controlplus_l_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "a9434e653e9aff6477c6b52728d7560efde26287",
+    "size": 0,
+    "path": "parts/lego_controlplus_xl_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "c1d33457d433b3cae3845f6070ba61843a08ef35",
+    "size": 0,
+    "path": "parts/lego_ev3_large_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "92ceb79d88efd83d65b52ea8fcdb870cd00aedc1",
+    "size": 0,
+    "path": "parts/lego_nxt_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "d703dd587848e44ab7f3f7e5338b2f83b73f13b4",
+    "size": 0,
+    "path": "parts/lego_pf_l_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "f86f0110c240e9ec1d0245af7e08141e4f4d2ee8",
+    "size": 0,
+    "path": "parts/lego_pf_m_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "b9b7ab9413c929c81f264f12a24e6ed32ebc183c",
+    "size": 0,
+    "path": "parts/lego_spike_medium_motor"
+  },
+  {
+    "type": "directory",
+    "oid": "99ab6844baf3e2ecca553fe75975be440e8cd962",
+    "size": 0,
+    "path": "parts/luxonis_oak_1"
+  },
+  {
+    "type": "directory",
+    "oid": "0d72fee8563f8bfcc2a4d0064ab24f6682e0c719",
+    "size": 0,
+    "path": "parts/luxonis_oak_1_lite"
+  },
+  {
+    "type": "directory",
+    "oid": "83472ecc09299b1f6721a09f6d70258cad7a3f16",
+    "size": 0,
+    "path": "parts/luxonis_oak_1_lite_w"
+  },
+  {
+    "type": "directory",
+    "oid": "cbd45a91c70c1cdb7688436d1b89386e7f9480ed",
+    "size": 0,
+    "path": "parts/luxonis_oak_1_max"
+  },
+  {
+    "type": "directory",
+    "oid": "314ede11d0d56d1ce4718c41e83a7e8391da5fa3",
+    "size": 0,
+    "path": "parts/luxonis_oak_1_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "150f98277760460c4b8b4373b05d3a0e42676ca0",
+    "size": 0,
+    "path": "parts/luxonis_oak_1_w"
+  },
+  {
+    "type": "directory",
+    "oid": "a7e1f020480a623f0b1c16af7416f46db2f8bbe1",
+    "size": 0,
+    "path": "parts/luxonis_oak_4_cs"
+  },
+  {
+    "type": "directory",
+    "oid": "ebbf78d519679ced3930462ef02c5170c24337a5",
+    "size": 0,
+    "path": "parts/luxonis_oak_4_d"
+  },
+  {
+    "type": "directory",
+    "oid": "68396cdf3aa239443cd2ac91486ab829d3ea317b",
+    "size": 0,
+    "path": "parts/luxonis_oak_4_d_pro"
+  },
+  {
+    "type": "directory",
+    "oid": "8e5df540db6cbb4bc433bee431ae02c55de7f772",
+    "size": 0,
+    "path": "parts/luxonis_oak_4_s"
+  },
+  {
+    "type": "directory",
+    "oid": "a5c95ad4c9da4dabc433161d27e4cb73827bf3bb",
+    "size": 0,
+    "path": "parts/luxonis_oak_d"
+  },
+  {
+    "type": "directory",
+    "oid": "f12db899420f9391bec9848922a6b9797806bf2a",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_cm4_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "357b09b2582fcb4b9aa7975a08f0046dcda938f1",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_iot_75"
+  },
+  {
+    "type": "directory",
+    "oid": "87c53845ef8393adae21e9219829289e5ca0774b",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_lite"
+  },
+  {
+    "type": "directory",
+    "oid": "492596b2198583ae4b6245fe8b994cc3f4bc0af3",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_lr"
+  },
+  {
+    "type": "directory",
+    "oid": "a182996b8804d9c97bed591bb4ec1d4bf8b23e96",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "cef9dd5172ff8fe6df941cdc5a3e21be872ae639",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_pro"
+  },
+  {
+    "type": "directory",
+    "oid": "30e8720334bd18e22b16b378bbc572be346b0e2b",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_pro_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "d97b13d0ee8f345ea3b82ef066f6ddcb87439319",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_pro_w"
+  },
+  {
+    "type": "directory",
+    "oid": "89dddeb9d2fc7f79b778523011e7db27696f7424",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_pro_w_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "71a6e667b637e54ac53487c91a59352ed41fb6f5",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_s2"
+  },
+  {
+    "type": "directory",
+    "oid": "7468849f921aca8292e9a1f7db20bc41e48f6169",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_s2_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "5735c3abdc9063ae81aee65552404aebd5ea5a7b",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_sr"
+  },
+  {
+    "type": "directory",
+    "oid": "cc4b34f2f4a93ebf165b65b3a944b85ecc0987ed",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_tof"
+  },
+  {
+    "type": "directory",
+    "oid": "b6ec1c2b069a133d90591bde324b9576eca3cc13",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_w"
+  },
+  {
+    "type": "directory",
+    "oid": "bd493fae06a69d10a7a6ee0bc9c4d8ec3b2a1474",
+    "size": 0,
+    "path": "parts/luxonis_oak_d_w_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "1058fd1f62f3c8f36c4f02d06ec257643e390123",
+    "size": 0,
+    "path": "parts/luxonis_oak_ffc_4p_poe"
+  },
+  {
+    "type": "directory",
+    "oid": "b4a4c486c677a531cfe0d7f8d53f193879a8422c",
+    "size": 0,
+    "path": "parts/luxonis_oak_som"
+  },
+  {
+    "type": "directory",
+    "oid": "d35efb70cb9e0f5343269d1da637bce1d51cfc20",
+    "size": 0,
+    "path": "parts/luxonis_oak_som_iot"
+  },
+  {
+    "type": "directory",
+    "oid": "0863b97e18d05a08a573c8cf3b9e210f653eb992",
+    "size": 0,
+    "path": "parts/luxonis_oak_som_pro"
+  },
+  {
+    "type": "directory",
+    "oid": "794fcaabc5fe2111279905dc8b428fe6c818b0f6",
+    "size": 0,
+    "path": "parts/maxbotix_mb1010_lv_maxsonar_ez1"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_100_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_100_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "7c82ed6c7e1e09cc32ecc969be55dbd741164a4e",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_100_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_100_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_100_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b9f86316e66193ea6b3cf82c36b836e1acdb5070",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_100_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_125_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_125_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "7c82ed6c7e1e09cc32ecc969be55dbd741164a4e",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_125_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_125_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_125_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b9f86316e66193ea6b3cf82c36b836e1acdb5070",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_125_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_156_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_156_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "7c82ed6c7e1e09cc32ecc969be55dbd741164a4e",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_156_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_156_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_156_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b9f86316e66193ea6b3cf82c36b836e1acdb5070",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_156_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_195_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_195_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "7c82ed6c7e1e09cc32ecc969be55dbd741164a4e",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_195_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "3ae81627559df7c991383a48e3b60866495a08ad",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_195_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "b8e0d722ee17e1b92ca0b5120d118961e121fcef",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_195_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b9f86316e66193ea6b3cf82c36b836e1acdb5070",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_195_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_250_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_250_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "bb161005b358ee733ea87af73911ee7b4ff10c1f",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_250_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_250_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_250_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "a65fdbdcfcead0c47bbe3ae6c7c6d27aa3a0643c",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_250_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "002afb2ff469e4cdd885607757d3f4bd79618343",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_25_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "c0f5334cd26f14d0a7f14dd1979f2447a2cd274b",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_25_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "17d5881e5d34eab85086292ba36f430d8144f77f",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_25_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "002afb2ff469e4cdd885607757d3f4bd79618343",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_25_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "c0f5334cd26f14d0a7f14dd1979f2447a2cd274b",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_25_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b44d6783c2fc1139e9f71d303853622fb7800d31",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_25_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_313_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_313_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "bb161005b358ee733ea87af73911ee7b4ff10c1f",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_313_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_313_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_313_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "a65fdbdcfcead0c47bbe3ae6c7c6d27aa3a0643c",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_313_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "002afb2ff469e4cdd885607757d3f4bd79618343",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_31_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "c0f5334cd26f14d0a7f14dd1979f2447a2cd274b",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_31_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "17d5881e5d34eab85086292ba36f430d8144f77f",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_31_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "002afb2ff469e4cdd885607757d3f4bd79618343",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_31_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "c0f5334cd26f14d0a7f14dd1979f2447a2cd274b",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_31_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b44d6783c2fc1139e9f71d303853622fb7800d31",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_31_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_391_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_391_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "bb161005b358ee733ea87af73911ee7b4ff10c1f",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_391_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_391_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_391_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "a65fdbdcfcead0c47bbe3ae6c7c6d27aa3a0643c",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_391_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_488_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_488_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "bb161005b358ee733ea87af73911ee7b4ff10c1f",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_488_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "1e42c6a1fcaa415a248c787751768fcb70594a79",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_488_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "a08e054089c32a6b3f99a442150eb7b71073d1f2",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_488_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "a65fdbdcfcead0c47bbe3ae6c7c6d27aa3a0643c",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_488_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "ae2e34db7c174083fcdeb5dbf89540061b269fae",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_63_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "aff7dfcc6c0b636e71ac0e8af1913b27ebe5e556",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_63_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "21e33f5ee249644dd1e5adaee7ac741866eeb610",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_63_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae2e34db7c174083fcdeb5dbf89540061b269fae",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_63_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "aff7dfcc6c0b636e71ac0e8af1913b27ebe5e556",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_63_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "829d931ccbcec7aa4911ccc99d94e2ab73c50445",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_63_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "749308b681e11ad0112e324177847d4fa2e2f2cb",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_73_6v_short_shaft"
+  },
+  {
+    "type": "directory",
+    "oid": "ae2e34db7c174083fcdeb5dbf89540061b269fae",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_78_12v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "aff7dfcc6c0b636e71ac0e8af1913b27ebe5e556",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_78_12v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "21e33f5ee249644dd1e5adaee7ac741866eeb610",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_78_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae2e34db7c174083fcdeb5dbf89540061b269fae",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_78_6v_cb"
+  },
+  {
+    "type": "directory",
+    "oid": "aff7dfcc6c0b636e71ac0e8af1913b27ebe5e556",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_78_6v_cb_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "829d931ccbcec7aa4911ccc99d94e2ab73c50445",
+    "size": 0,
+    "path": "parts/pololu_20d_gearmotor_78_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_172_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "e9370906c8283342cd06e67ba4badf1c3ee956c8",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "f0b8303c03e4b647c70fbdd2b1990203eb781f25",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "e9370906c8283342cd06e67ba4badf1c3ee956c8",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "f0b8303c03e4b647c70fbdd2b1990203eb781f25",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "e9370906c8283342cd06e67ba4badf1c3ee956c8",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "f0b8303c03e4b647c70fbdd2b1990203eb781f25",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "e9370906c8283342cd06e67ba4badf1c3ee956c8",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "f0b8303c03e4b647c70fbdd2b1990203eb781f25",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "e9370906c8283342cd06e67ba4badf1c3ee956c8",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "f0b8303c03e4b647c70fbdd2b1990203eb781f25",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "e9370906c8283342cd06e67ba4badf1c3ee956c8",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "f0b8303c03e4b647c70fbdd2b1990203eb781f25",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_20_4_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "b774d45766b3b917ebbbb08603c9bdae0f2f81eb",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_lp_6v_encoder_no_end_cap"
+  },
+  {
+    "type": "directory",
+    "oid": "1a7516800cf899805f9576b1765a1cb13a0554cc",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "5e987e42704ef01f04fc121748c308c7d76cbf7f",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_227_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_34_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f1faa8cc5a2375096fc5e814a871833cb0c4a5f4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_378_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "9c1c79513e271f6fe298b5de1dd435f69f12d363",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_378_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f1faa8cc5a2375096fc5e814a871833cb0c4a5f4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_378_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "9c1c79513e271f6fe298b5de1dd435f69f12d363",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_378_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "4aa46ce68d0d2989c0ec64f4e87c5e8938797f77",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "872b643614b986c04d58ea0afc234ab5d34bd9c2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_47_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f1faa8cc5a2375096fc5e814a871833cb0c4a5f4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_499_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "9c1c79513e271f6fe298b5de1dd435f69f12d363",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_499_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "8bcc158c368496b59bd32e85496ea4106153ccb7",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_499_lp_6v_encoder_no_end_cap"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_4_4_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_75_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "dcf830d177538cf2182db92f949281ba7a8198da",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "44ff8a302cd22e2aa6ca6fcae5b74283be5fafb2",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_99_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_hp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_hp_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_lp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "f0c47863ab74f7a01a3d1c28c635abb2401195a4",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_mp_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ebfc0cbb1282ec32d2987a37978f444bf24988f0",
+    "size": 0,
+    "path": "parts/pololu_25d_gearmotor_9_7_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "7a417d6316b676af603cc201266cda586f73b0c2",
+    "size": 0,
+    "path": "parts/pololu_25d_motor_hp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "7a417d6316b676af603cc201266cda586f73b0c2",
+    "size": 0,
+    "path": "parts/pololu_25d_motor_hp_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "7a417d6316b676af603cc201266cda586f73b0c2",
+    "size": 0,
+    "path": "parts/pololu_25d_motor_hp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "7a417d6316b676af603cc201266cda586f73b0c2",
+    "size": 0,
+    "path": "parts/pololu_25d_motor_lp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "7a417d6316b676af603cc201266cda586f73b0c2",
+    "size": 0,
+    "path": "parts/pololu_25d_motor_lp_6v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "7a417d6316b676af603cc201266cda586f73b0c2",
+    "size": 0,
+    "path": "parts/pololu_25d_motor_mp_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "21f43d41ba0e9c64c589b19a6d95685738be46e0",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_100_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "70d4908fdcc5f95aabbcbefc7fc5ac62678b9bb8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_100_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "21f43d41ba0e9c64c589b19a6d95685738be46e0",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_100_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "70d4908fdcc5f95aabbcbefc7fc5ac62678b9bb8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_100_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "9f7f944a9f8b7e97e74fa2370f2fe4945bfd06b8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_10_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "6acc9fae62a9341286ff500a4f740fdad27054ef",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_10_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "9f7f944a9f8b7e97e74fa2370f2fe4945bfd06b8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_10_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "6acc9fae62a9341286ff500a4f740fdad27054ef",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_10_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "21f43d41ba0e9c64c589b19a6d95685738be46e0",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_131_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "70d4908fdcc5f95aabbcbefc7fc5ac62678b9bb8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_131_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "21f43d41ba0e9c64c589b19a6d95685738be46e0",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_131_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "70d4908fdcc5f95aabbcbefc7fc5ac62678b9bb8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_131_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "21f43d41ba0e9c64c589b19a6d95685738be46e0",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_150_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "70d4908fdcc5f95aabbcbefc7fc5ac62678b9bb8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_150_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "21f43d41ba0e9c64c589b19a6d95685738be46e0",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_150_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "70d4908fdcc5f95aabbcbefc7fc5ac62678b9bb8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_150_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "ad3e867882a4acad6e4070d243b3427cad908794",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_19_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "579beaa6e519df22bd647b982025e8ae6f10bacd",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_19_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "ad3e867882a4acad6e4070d243b3427cad908794",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_19_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "579beaa6e519df22bd647b982025e8ae6f10bacd",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_19_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "ad3e867882a4acad6e4070d243b3427cad908794",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_30_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "579beaa6e519df22bd647b982025e8ae6f10bacd",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_30_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "ad3e867882a4acad6e4070d243b3427cad908794",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_30_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "579beaa6e519df22bd647b982025e8ae6f10bacd",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_30_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "cbec6086a7dc89eb5650b6cf60a521a85324155c",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_50_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "896c3cf756c6b8661625ef178ed191234218cd74",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_50_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "cbec6086a7dc89eb5650b6cf60a521a85324155c",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_50_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "896c3cf756c6b8661625ef178ed191234218cd74",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_50_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "9f7f944a9f8b7e97e74fa2370f2fe4945bfd06b8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_6_3_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "6acc9fae62a9341286ff500a4f740fdad27054ef",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_6_3_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "9f7f944a9f8b7e97e74fa2370f2fe4945bfd06b8",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_6_3_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "6acc9fae62a9341286ff500a4f740fdad27054ef",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_6_3_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "cbec6086a7dc89eb5650b6cf60a521a85324155c",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_70_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "896c3cf756c6b8661625ef178ed191234218cd74",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_70_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "cbec6086a7dc89eb5650b6cf60a521a85324155c",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_70_24v"
+  },
+  {
+    "type": "directory",
+    "oid": "896c3cf756c6b8661625ef178ed191234218cd74",
+    "size": 0,
+    "path": "parts/pololu_37d_gearmotor_70_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "c09ac95d9fed3e41f6add7a6eed50c157670b88c",
+    "size": 0,
+    "path": "parts/pololu_37d_motor_12v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "c09ac95d9fed3e41f6add7a6eed50c157670b88c",
+    "size": 0,
+    "path": "parts/pololu_37d_motor_24v_encoder"
+  },
+  {
+    "type": "directory",
+    "oid": "13f1b1ce54c9bc2cea148cdecc92df6c0213c719",
+    "size": 0,
+    "path": "parts/pololu_3pi_ball_caster_1_2in_plastic"
+  },
+  {
+    "type": "directory",
+    "oid": "666d7f5c04b0f2c5a991ab2492e7f1d7a08b6601",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_control_board"
+  },
+  {
+    "type": "directory",
+    "oid": "2947ec3722bccba1934a59288804fa1605dd9cbd",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_robot"
+  },
+  {
+    "type": "directory",
+    "oid": "2947ec3722bccba1934a59288804fa1605dd9cbd",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_robot_hyper"
+  },
+  {
+    "type": "directory",
+    "oid": "2947ec3722bccba1934a59288804fa1605dd9cbd",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_robot_kit_hyper"
+  },
+  {
+    "type": "directory",
+    "oid": "2947ec3722bccba1934a59288804fa1605dd9cbd",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_robot_kit_standard"
+  },
+  {
+    "type": "directory",
+    "oid": "2947ec3722bccba1934a59288804fa1605dd9cbd",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_robot_kit_turtle"
+  },
+  {
+    "type": "directory",
+    "oid": "2947ec3722bccba1934a59288804fa1605dd9cbd",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_2040_robot_turtle"
+  },
+  {
+    "type": "directory",
+    "oid": "b9c032f3c4c74764ad54d84a5b95c29829d35234",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_control_board"
+  },
+  {
+    "type": "directory",
+    "oid": "1cebba509336bf517f960c5857eb766f5d13054d",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_control_board"
+  },
+  {
+    "type": "directory",
+    "oid": "cddc18f07d9c53bf0a62067e1052084d073cbbea",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_robot_hyper"
+  },
+  {
+    "type": "directory",
+    "oid": "cddc18f07d9c53bf0a62067e1052084d073cbbea",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_robot_kit_hyper"
+  },
+  {
+    "type": "directory",
+    "oid": "cddc18f07d9c53bf0a62067e1052084d073cbbea",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_robot_kit_standard"
+  },
+  {
+    "type": "directory",
+    "oid": "cddc18f07d9c53bf0a62067e1052084d073cbbea",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_robot_kit_turtle"
+  },
+  {
+    "type": "directory",
+    "oid": "cddc18f07d9c53bf0a62067e1052084d073cbbea",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_robot_standard"
+  },
+  {
+    "type": "directory",
+    "oid": "cddc18f07d9c53bf0a62067e1052084d073cbbea",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_oled_robot_turtle"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7ffda2706c3d31214031eb8f7d727f187e99df",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_robot_kit_hyper"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7ffda2706c3d31214031eb8f7d727f187e99df",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_robot_kit_standard"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7ffda2706c3d31214031eb8f7d727f187e99df",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_32u4_robot_kit_turtle"
+  },
+  {
+    "type": "directory",
+    "oid": "24f95cba0cf2b7225cfcd6c7deac453cf0aba7df",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_chassis_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "87d270e9d214955d6d76933898059eba501eeed4",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_four_nimh_aaa_cells"
+  },
+  {
+    "type": "directory",
+    "oid": "b178eb907dc32cc0118ab15f73f7220e525c64d8",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_lcd_display"
+  },
+  {
+    "type": "directory",
+    "oid": "50358a6335efbe7d9c4a44b9c265bc044407e37f",
+    "size": 0,
+    "path": "parts/pololu_3pi_plus_oled_display"
+  },
+  {
+    "type": "directory",
+    "oid": "bb320d028de29fb52df71d82f41ce7a61cacd097",
+    "size": 0,
+    "path": "parts/pololu_a4990_dual_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "d85c60d28f7d639234bd58513d9e9bd023282a3c",
+    "size": 0,
+    "path": "parts/pololu_a4990_dual_motor_driver_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "e35f7a9617962837fd81cb590f9d3e7c32f68592",
+    "size": 0,
+    "path": "parts/pololu_altimu_10_v6"
+  },
+  {
+    "type": "directory",
+    "oid": "fde90bc4d296bcf85062e9919e08721f38942b86",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_1_2in_metal"
+  },
+  {
+    "type": "directory",
+    "oid": "fde90bc4d296bcf85062e9919e08721f38942b86",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_1_2in_plastic"
+  },
+  {
+    "type": "directory",
+    "oid": "f7bb233a44344588a063430223df6fb34310383d",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_1in_ball_bearings"
+  },
+  {
+    "type": "directory",
+    "oid": "f7bb233a44344588a063430223df6fb34310383d",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_1in_plastic_rollers"
+  },
+  {
+    "type": "directory",
+    "oid": "c1c6d0295b690b6ed6a1ae2dc5de1e5ae7b3ff4f",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_3_4in_metal"
+  },
+  {
+    "type": "directory",
+    "oid": "917cf944db160e8be810f0353bcf581e11dc1fc3",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_3_4in_plastic"
+  },
+  {
+    "type": "directory",
+    "oid": "27abafac83e6b8aacac449f189ed41a6da9fb067",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_3_8in_metal"
+  },
+  {
+    "type": "directory",
+    "oid": "27abafac83e6b8aacac449f189ed41a6da9fb067",
+    "size": 0,
+    "path": "parts/pololu_ball_caster_3_8in_plastic"
+  },
+  {
+    "type": "directory",
+    "oid": "bad4b1bebf13e31e566cba9d7a743f384127be08",
+    "size": 0,
+    "path": "parts/pololu_bd65496muv_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "c8132fb6aab95ca7b7c8e25597b55bdbe32de208",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_100cm"
+  },
+  {
+    "type": "directory",
+    "oid": "9f67c92bad5b66d68bbef996444fef2462127515",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_100cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "7ca58b1c7e99186422841512b49207c3a8689a81",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_10cm"
+  },
+  {
+    "type": "directory",
+    "oid": "7ca58b1c7e99186422841512b49207c3a8689a81",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_15cm"
+  },
+  {
+    "type": "directory",
+    "oid": "c8132fb6aab95ca7b7c8e25597b55bdbe32de208",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_200cm"
+  },
+  {
+    "type": "directory",
+    "oid": "9f67c92bad5b66d68bbef996444fef2462127515",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_200cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "c8132fb6aab95ca7b7c8e25597b55bdbe32de208",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_25cm"
+  },
+  {
+    "type": "directory",
+    "oid": "9f67c92bad5b66d68bbef996444fef2462127515",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_25cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "c8132fb6aab95ca7b7c8e25597b55bdbe32de208",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_50cm"
+  },
+  {
+    "type": "directory",
+    "oid": "9f67c92bad5b66d68bbef996444fef2462127515",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_50cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "7ca58b1c7e99186422841512b49207c3a8689a81",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_5cm"
+  },
+  {
+    "type": "directory",
+    "oid": "b0fa3a5f40e925f05ffad3083c46d95650f21268",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_v2_10cm"
+  },
+  {
+    "type": "directory",
+    "oid": "abee086f25914def31c48be97b588c82ced8dc24",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_v2_10cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "b0fa3a5f40e925f05ffad3083c46d95650f21268",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_v2_15cm"
+  },
+  {
+    "type": "directory",
+    "oid": "abee086f25914def31c48be97b588c82ced8dc24",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_v2_15cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "b0fa3a5f40e925f05ffad3083c46d95650f21268",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_v2_5cm"
+  },
+  {
+    "type": "directory",
+    "oid": "abee086f25914def31c48be97b588c82ced8dc24",
+    "size": 0,
+    "path": "parts/pololu_digital_distance_sensor_v2_5cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "c8132fb6aab95ca7b7c8e25597b55bdbe32de208",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_pw_130cm"
+  },
+  {
+    "type": "directory",
+    "oid": "9f67c92bad5b66d68bbef996444fef2462127515",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_pw_130cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "c8132fb6aab95ca7b7c8e25597b55bdbe32de208",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_pw_300cm"
+  },
+  {
+    "type": "directory",
+    "oid": "9f67c92bad5b66d68bbef996444fef2462127515",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_pw_300cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "7ca58b1c7e99186422841512b49207c3a8689a81",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_pw_50cm"
+  },
+  {
+    "type": "directory",
+    "oid": "b0fa3a5f40e925f05ffad3083c46d95650f21268",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_v2_pw_50cm"
+  },
+  {
+    "type": "directory",
+    "oid": "abee086f25914def31c48be97b588c82ced8dc24",
+    "size": 0,
+    "path": "parts/pololu_distance_sensor_v2_pw_50cm_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "3fb306ef43731109110c38aadfaf89392700c073",
+    "size": 0,
+    "path": "parts/pololu_drv8256e_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "3fb306ef43731109110c38aadfaf89392700c073",
+    "size": 0,
+    "path": "parts/pololu_drv8256p_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "b248e41ab0b54988c2ec55179c3bc292ca80bf6f",
+    "size": 0,
+    "path": "parts/pololu_drv8263h_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "9bc6f57c45fad0726e6d4c99d9358720997bcd96",
+    "size": 0,
+    "path": "parts/pololu_drv8801_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "3a9a68080e13e0c2b62f11ed92aa9eed3f5d19bf",
+    "size": 0,
+    "path": "parts/pololu_drv8833_dual_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "c7179140c807028cbf0dfd42f1deb9fa3ec9ac15",
+    "size": 0,
+    "path": "parts/pololu_drv8835_dual_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "2cc5cdaa31c2d83dd99667c167c19772709a1d78",
+    "size": 0,
+    "path": "parts/pololu_drv8835_dual_motor_driver_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "9948eccb972c83c7b9a36cbc754870010979bec2",
+    "size": 0,
+    "path": "parts/pololu_drv8835_dual_motor_driver_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "7086029a0a496d0fd1a96c3701729af7bee764e2",
+    "size": 0,
+    "path": "parts/pololu_drv8838_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "9b99b62d2293bbb8c0fa18f14d56384981027871",
+    "size": 0,
+    "path": "parts/pololu_drv8874_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "eda3b919a0a3db80ad1711add085a8eac0c202e0",
+    "size": 0,
+    "path": "parts/pololu_drv8876_qfn_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "9b99b62d2293bbb8c0fa18f14d56384981027871",
+    "size": 0,
+    "path": "parts/pololu_drv8876_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "c6e0dc8b433b44ac00a581dc605517f542425428",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_18v18_for_raspberry_pi_assembled"
+  },
+  {
+    "type": "directory",
+    "oid": "c6e0dc8b433b44ac00a581dc605517f542425428",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_18v18_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "96277780c81f34ca8e8fec78c783277ba03e2c72",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_18v18_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "0cc3b4c1739d03258bb3482b99e42a002d39cd78",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_18v22_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "8f51d447b7dcccb5f826a7b7934fd9922017a046",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_18v22_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "c6e0dc8b433b44ac00a581dc605517f542425428",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_24v14_for_raspberry_pi_assembled"
+  },
+  {
+    "type": "directory",
+    "oid": "c6e0dc8b433b44ac00a581dc605517f542425428",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_24v14_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "96277780c81f34ca8e8fec78c783277ba03e2c72",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_24v14_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "0cc3b4c1739d03258bb3482b99e42a002d39cd78",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_24v18_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "8f51d447b7dcccb5f826a7b7934fd9922017a046",
+    "size": 0,
+    "path": "parts/pololu_dual_g2_high_power_motor_driver_24v18_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "fa93fa5e9e3074671b524465a7ff54cd6422e3af",
+    "size": 0,
+    "path": "parts/pololu_dual_max14870_motor_driver_for_raspberry_pi_assembled"
+  },
+  {
+    "type": "directory",
+    "oid": "fa93fa5e9e3074671b524465a7ff54cd6422e3af",
+    "size": 0,
+    "path": "parts/pololu_dual_max14870_motor_driver_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "d7af29a6d60c6e7aae2eef06bc4e4b73ef591211",
+    "size": 0,
+    "path": "parts/pololu_dual_max14870_motor_driver_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "8e455121c43d1c44d07abbf691ed849d2cf88375",
+    "size": 0,
+    "path": "parts/pololu_dual_mc33926_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "006b3b3887baaca1ecdaac76869a0fbe01d57169",
+    "size": 0,
+    "path": "parts/pololu_dual_mc33926_motor_driver_for_raspberry_pi_assembled"
+  },
+  {
+    "type": "directory",
+    "oid": "006b3b3887baaca1ecdaac76869a0fbe01d57169",
+    "size": 0,
+    "path": "parts/pololu_dual_mc33926_motor_driver_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "2152624a11bdce73b4bf2012dfe91b75cdc41e25",
+    "size": 0,
+    "path": "parts/pololu_dual_mc33926_motor_driver_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "4e92156722c15113704a058bac888a131ee9d396",
+    "size": 0,
+    "path": "parts/pololu_dual_tb9051ftg_motor_driver_for_raspberry_pi_assembled"
+  },
+  {
+    "type": "directory",
+    "oid": "4e92156722c15113704a058bac888a131ee9d396",
+    "size": 0,
+    "path": "parts/pololu_dual_tb9051ftg_motor_driver_for_raspberry_pi_partial_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "1357d6b8c8f649cb1dc85637b34a0bb82a757279",
+    "size": 0,
+    "path": "parts/pololu_dual_tb9051ftg_motor_driver_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "14a95e2b09e41ea659b41d06f78fa50be9c6b979",
+    "size": 0,
+    "path": "parts/pololu_dual_vnh5019_motor_driver_shield_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "1eed71c0a0941a70ed3fbace88f12498e83abcd7",
+    "size": 0,
+    "path": "parts/pololu_g2_high_power_motor_driver_18v17"
+  },
+  {
+    "type": "directory",
+    "oid": "b4cc3df3fc35c073bd812e7e6cb2fc3162c25796",
+    "size": 0,
+    "path": "parts/pololu_g2_high_power_motor_driver_18v25"
+  },
+  {
+    "type": "directory",
+    "oid": "1eed71c0a0941a70ed3fbace88f12498e83abcd7",
+    "size": 0,
+    "path": "parts/pololu_g2_high_power_motor_driver_24v13"
+  },
+  {
+    "type": "directory",
+    "oid": "b4cc3df3fc35c073bd812e7e6cb2fc3162c25796",
+    "size": 0,
+    "path": "parts/pololu_g2_high_power_motor_driver_24v21"
+  },
+  {
+    "type": "directory",
+    "oid": "669856121a1ba1698bdb33165a924989f881d7c4",
+    "size": 0,
+    "path": "parts/pololu_g2_high_power_motor_driver_24v30_cs"
+  },
+  {
+    "type": "directory",
+    "oid": "872666e230620aca5d346c555c37d5250bda95a0",
+    "size": 0,
+    "path": "parts/pololu_h2_high_power_motor_driver_36v11_cs"
+  },
+  {
+    "type": "directory",
+    "oid": "824ab5485c768f15da3280433b763bf25d4cd2f3",
+    "size": 0,
+    "path": "parts/pololu_high_power_motor_driver_18v15"
+  },
+  {
+    "type": "directory",
+    "oid": "824ab5485c768f15da3280433b763bf25d4cd2f3",
+    "size": 0,
+    "path": "parts/pololu_high_power_motor_driver_36v9"
+  },
+  {
+    "type": "directory",
+    "oid": "83eff3b7390fc91021cf982a8d0d5ae740c65f0a",
+    "size": 0,
+    "path": "parts/pololu_high_power_simple_motor_controller_g2_18v15"
+  },
+  {
+    "type": "directory",
+    "oid": "55415daebccb8fd6cd0aa84108ddedf2ec12f393",
+    "size": 0,
+    "path": "parts/pololu_high_power_simple_motor_controller_g2_18v25"
+  },
+  {
+    "type": "directory",
+    "oid": "83eff3b7390fc91021cf982a8d0d5ae740c65f0a",
+    "size": 0,
+    "path": "parts/pololu_high_power_simple_motor_controller_g2_24v12"
+  },
+  {
+    "type": "directory",
+    "oid": "55415daebccb8fd6cd0aa84108ddedf2ec12f393",
+    "size": 0,
+    "path": "parts/pololu_high_power_simple_motor_controller_g2_24v19"
+  },
+  {
+    "type": "directory",
+    "oid": "57f868ca7370b27a3c35037ce323fb88ee589a9d",
+    "size": 0,
+    "path": "parts/pololu_jrk_21v3_usb_motor_controller_with_feedback"
+  },
+  {
+    "type": "directory",
+    "oid": "57f868ca7370b27a3c35037ce323fb88ee589a9d",
+    "size": 0,
+    "path": "parts/pololu_jrk_21v3_usb_motor_controller_with_feedback_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "3815d213dbe85e962d0a7aa81a870e1128351372",
+    "size": 0,
+    "path": "parts/pololu_jrk_g2_18v19_usb_motor_controller_with_feedback"
+  },
+  {
+    "type": "directory",
+    "oid": "ed231628543d6837779051b533b2f98b14d00f15",
+    "size": 0,
+    "path": "parts/pololu_jrk_g2_18v27_usb_motor_controller_with_feedback"
+  },
+  {
+    "type": "directory",
+    "oid": "c8ef4d4a78ac06da26219d8ee1f4b641c7c4940e",
+    "size": 0,
+    "path": "parts/pololu_jrk_g2_21v3_usb_motor_controller_with_feedback"
+  },
+  {
+    "type": "directory",
+    "oid": "c8ef4d4a78ac06da26219d8ee1f4b641c7c4940e",
+    "size": 0,
+    "path": "parts/pololu_jrk_g2_21v3_usb_motor_controller_with_feedback_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "3815d213dbe85e962d0a7aa81a870e1128351372",
+    "size": 0,
+    "path": "parts/pololu_jrk_g2_24v13_usb_motor_controller_with_feedback"
+  },
+  {
+    "type": "directory",
+    "oid": "ed231628543d6837779051b533b2f98b14d00f15",
+    "size": 0,
+    "path": "parts/pololu_jrk_g2_24v21_usb_motor_controller_with_feedback"
+  },
+  {
+    "type": "directory",
+    "oid": "88407a1ee29cae1356704104237130dc2c676b8f",
+    "size": 0,
+    "path": "parts/pololu_lsm6ds33_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "3387aacb73322c91496058594fd00bfd054f6978",
+    "size": 0,
+    "path": "parts/pololu_lsm6dso_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "45ea7f0a6c36a4a45930bb85ae2feef81012a0c8",
+    "size": 0,
+    "path": "parts/pololu_max14870_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "00270e93c14e691f4067947d516214b490b5583c",
+    "size": 0,
+    "path": "parts/pololu_mc33926_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "661be140878e81b32a3ab00d845bf4d14756cf86",
+    "size": 0,
+    "path": "parts/pololu_micro_gripper"
+  },
+  {
+    "type": "directory",
+    "oid": "36e5c1e1f1e5dffc2c1a271b4e00ae586d6d4584",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "244560a906e3e95642d03bdf1ff5d59051fdfba6",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "67e3c03e231a4f43e890bf4dde4de9217230a107",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "29983a5bfa527ab50fd13d44f76a404cb2031dbd",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "dad5b78a9446f9c51ddc8f32a139586ae9e692a8",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "4826cb2b689b411a7b06928daa83087452934f9c",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "136055f5c7e5c23cdb6bd7096c33298b9c1bd89c",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "cd37f48042f42352820bef66bb85ce1d573ab458",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "dad5b78a9446f9c51ddc8f32a139586ae9e692a8",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "4826cb2b689b411a7b06928daa83087452934f9c",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "136055f5c7e5c23cdb6bd7096c33298b9c1bd89c",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "cd37f48042f42352820bef66bb85ce1d573ab458",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "36e5c1e1f1e5dffc2c1a271b4e00ae586d6d4584",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "244560a906e3e95642d03bdf1ff5d59051fdfba6",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "67e3c03e231a4f43e890bf4dde4de9217230a107",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "29983a5bfa527ab50fd13d44f76a404cb2031dbd",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "36e5c1e1f1e5dffc2c1a271b4e00ae586d6d4584",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "244560a906e3e95642d03bdf1ff5d59051fdfba6",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "67e3c03e231a4f43e890bf4dde4de9217230a107",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "29983a5bfa527ab50fd13d44f76a404cb2031dbd",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_1000_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_100_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_10_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_150_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_15_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_210_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_250_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_298_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_30_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_380_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_50_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_5_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_12v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_12v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_12v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_12v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "4d2dfe9bdc79a931389fd8e513e459e8deccffa3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "ae4c724d0a4ec01eedf3cba5f4f66e38475a0cc5",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "c9af920813169a977bbf49e5fd0665b35dabc1a3",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "3e36cf0d66e7384480c9b5ea910f4dcd9ec6a66e",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_hpcb_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_lp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_lp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_lp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_lp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "10e0d999b01c30a975d3f75e73c14de21f341a70",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_mp_6v"
+  },
+  {
+    "type": "directory",
+    "oid": "50b6bf45db606561247b559ad3dbaa3d925db3eb",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_mp_6v_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "6f5345ba3280aea1fe61e536cb2ce75f04b1046f",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_mp_6v_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "0652a17ffa9ec55ed70eaf30b5fe2dcdb4a76dbe",
+    "size": 0,
+    "path": "parts/pololu_micro_metal_gearmotor_75_mp_6v_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "f9847789e634cc1f842203b33ee29a173eed99b4",
+    "size": 0,
+    "path": "parts/pololu_mini_plastic_gearmotor_120_hp_offset_encoder_back"
+  },
+  {
+    "type": "directory",
+    "oid": "4be3134097ee2de8d4f0f8456fd9893361593222",
+    "size": 0,
+    "path": "parts/pololu_mini_plastic_gearmotor_120_hp_offset_encoder_side"
+  },
+  {
+    "type": "directory",
+    "oid": "a6ff6440a446ce8f5835e087af3bb2049b5ac584",
+    "size": 0,
+    "path": "parts/pololu_mini_plastic_gearmotor_120_hp_offset_extended"
+  },
+  {
+    "type": "directory",
+    "oid": "b63934fc9721bed162e4e6a70f40486fbcfff5aa",
+    "size": 0,
+    "path": "parts/pololu_minimu_9_v5"
+  },
+  {
+    "type": "directory",
+    "oid": "ff26ef8c3300e477f4baedd3ded3a3301e219677",
+    "size": 0,
+    "path": "parts/pololu_minimu_9_v6"
+  },
+  {
+    "type": "directory",
+    "oid": "809a8e2490b4d6e2f138a84bba05bb9987f2bcb5",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1t256_single_i2c_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "809a8e2490b4d6e2f138a84bba05bb9987f2bcb5",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1t256_single_i2c_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "4a0059c7189fde6211602298d15abad0946a1148",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1t550_single_i2c_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "4a0059c7189fde6211602298d15abad0946a1148",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1t550_single_i2c_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "809a8e2490b4d6e2f138a84bba05bb9987f2bcb5",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1u256_single_serial_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "809a8e2490b4d6e2f138a84bba05bb9987f2bcb5",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1u256_single_serial_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "4a0059c7189fde6211602298d15abad0946a1148",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1u550_single_serial_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "4a0059c7189fde6211602298d15abad0946a1148",
+    "size": 0,
+    "path": "parts/pololu_motoron_m1u550_single_serial_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "f3bd949d5ec1d15dfd37700e139a56c23de66acd",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h18v18_dual_high_power_motor_controller_for_raspberry_pi_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "e815c7fdd8fe443f534229ad46cd42ef7619ab09",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h18v18_dual_high_power_motor_controller_for_raspberry_pi_no_connectors_or_standoffs"
+  },
+  {
+    "type": "directory",
+    "oid": "f3bd949d5ec1d15dfd37700e139a56c23de66acd",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h18v18_dual_high_power_motor_controller_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7b35817901f2ae34d5c4fb2ae36085806f9009",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h18v20_dual_high_power_motor_controller_for_raspberry_pi_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "f6f1f6fbea7610ec2c590666ca2f1bd9b2a8c3b1",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h18v20_dual_high_power_motor_controller_for_raspberry_pi_no_connectors_or_standoffs"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7b35817901f2ae34d5c4fb2ae36085806f9009",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h18v20_dual_high_power_motor_controller_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "f3bd949d5ec1d15dfd37700e139a56c23de66acd",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h24v14_dual_high_power_motor_controller_for_raspberry_pi_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "e815c7fdd8fe443f534229ad46cd42ef7619ab09",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h24v14_dual_high_power_motor_controller_for_raspberry_pi_no_connectors_or_standoffs"
+  },
+  {
+    "type": "directory",
+    "oid": "f3bd949d5ec1d15dfd37700e139a56c23de66acd",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h24v14_dual_high_power_motor_controller_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7b35817901f2ae34d5c4fb2ae36085806f9009",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h24v16_dual_high_power_motor_controller_for_raspberry_pi_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "f6f1f6fbea7610ec2c590666ca2f1bd9b2a8c3b1",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h24v16_dual_high_power_motor_controller_for_raspberry_pi_no_connectors_or_standoffs"
+  },
+  {
+    "type": "directory",
+    "oid": "fa7b35817901f2ae34d5c4fb2ae36085806f9009",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2h24v16_dual_high_power_motor_controller_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "9f2b7a1d35f7c4ba776efd135fbc2f13b02edf09",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s18v18_dual_high_power_motor_controller_shield_for_arduino_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "d4823bbef9b7baa2f9a743a5e6d13cd5ac769474",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s18v18_dual_high_power_motor_controller_shield_for_arduino_no_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "9f2b7a1d35f7c4ba776efd135fbc2f13b02edf09",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s18v18_dual_high_power_motor_controller_shield_kit_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "9b77223bdcb992bca496dc72f3fcd8ce7d07922b",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s18v20_dual_high_power_motor_controller_shield_for_arduino_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "7e19c215f650dbb81616f18d20dbc6ff5cb85704",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s18v20_dual_high_power_motor_controller_shield_for_arduino_no_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "9b77223bdcb992bca496dc72f3fcd8ce7d07922b",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s18v20_dual_high_power_motor_controller_shield_kit_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "9f2b7a1d35f7c4ba776efd135fbc2f13b02edf09",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s24v14_dual_high_power_motor_controller_shield_for_arduino_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "d4823bbef9b7baa2f9a743a5e6d13cd5ac769474",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s24v14_dual_high_power_motor_controller_shield_for_arduino_no_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "9f2b7a1d35f7c4ba776efd135fbc2f13b02edf09",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s24v14_dual_high_power_motor_controller_shield_kit_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "9b77223bdcb992bca496dc72f3fcd8ce7d07922b",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s24v16_dual_high_power_motor_controller_shield_for_arduino_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "7e19c215f650dbb81616f18d20dbc6ff5cb85704",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s24v16_dual_high_power_motor_controller_shield_for_arduino_no_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "9b77223bdcb992bca496dc72f3fcd8ce7d07922b",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2s24v16_dual_high_power_motor_controller_shield_kit_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "45d655ee7f676c55652ae42fe3395ffce51d7644",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2t256_dual_i2c_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "45d655ee7f676c55652ae42fe3395ffce51d7644",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2t256_dual_i2c_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "d65e6b2e398aa5ea95143fa2c72893c2b4b44f17",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2t550_dual_i2c_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "d65e6b2e398aa5ea95143fa2c72893c2b4b44f17",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2t550_dual_i2c_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "45d655ee7f676c55652ae42fe3395ffce51d7644",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2u256_dual_serial_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "45d655ee7f676c55652ae42fe3395ffce51d7644",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2u256_dual_serial_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "d65e6b2e398aa5ea95143fa2c72893c2b4b44f17",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2u550_dual_serial_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "d65e6b2e398aa5ea95143fa2c72893c2b4b44f17",
+    "size": 0,
+    "path": "parts/pololu_motoron_m2u550_dual_serial_motor_controller_header_pins_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "bd403b5286d267eb2e7a0631dce47c83490ef1d8",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3h256_triple_motor_controller_for_raspberry_pi_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "422b0db7f0bd5fa512b7faae625748da563b8e16",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3h256_triple_motor_controller_for_raspberry_pi_no_connectors_or_standoffs"
+  },
+  {
+    "type": "directory",
+    "oid": "bd403b5286d267eb2e7a0631dce47c83490ef1d8",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3h256_triple_motor_controller_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "5203b00c859c9c2d576d417c617c490c18ce7518",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3h550_triple_motor_controller_for_raspberry_pi_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "88cf17b8b7aa413aa801aca72465f80e0b482e48",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3h550_triple_motor_controller_for_raspberry_pi_no_connectors_or_standoffs"
+  },
+  {
+    "type": "directory",
+    "oid": "5203b00c859c9c2d576d417c617c490c18ce7518",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3h550_triple_motor_controller_kit_for_raspberry_pi"
+  },
+  {
+    "type": "directory",
+    "oid": "4f0f79bb4eeae0d91c2cd0a8b0066ee647a1e890",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3s256_triple_motor_controller_shield_for_arduino_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "1231ff9203fb790e812405630a444a011b1d9435",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3s256_triple_motor_controller_shield_for_arduino_no_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "4f0f79bb4eeae0d91c2cd0a8b0066ee647a1e890",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3s256_triple_motor_controller_shield_kit_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "19f0b7941e2b619230a156d46adf1c423e364af9",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3s550_triple_motor_controller_shield_for_arduino_connectors_soldered"
+  },
+  {
+    "type": "directory",
+    "oid": "1d960efd839e780a56efcbcec394b0ec70a1218e",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3s550_triple_motor_controller_shield_for_arduino_no_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "19f0b7941e2b619230a156d46adf1c423e364af9",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3s550_triple_motor_controller_shield_kit_for_arduino"
+  },
+  {
+    "type": "directory",
+    "oid": "cc98bc6dba6dc0f9e2c1570e4ffa8f66b34f8315",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3t453_triple_i2c_motor_controller_with_0_1_pitch_through_holes_no_headers"
+  },
+  {
+    "type": "directory",
+    "oid": "1dded5fbdc4a8b16ea06424568120164f020a826",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3t453_triple_i2c_motor_controller_with_jst_sh_style_connectors_and_vin_terminal_block"
+  },
+  {
+    "type": "directory",
+    "oid": "b3be57af40c71e2e4847c22580f23951b8bf8552",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3t453_triple_i2c_motor_controller_with_jst_sh_style_connectors_no_vin_connector"
+  },
+  {
+    "type": "directory",
+    "oid": "d6942f79f42902ad08bbc8baccfa0b142c3f04c3",
+    "size": 0,
+    "path": "parts/pololu_motoron_m3t453_triple_i2c_motor_controller_with_soldered_headers"
+  },
+  {
+    "type": "directory",
+    "oid": "3b43057ab6caf38be6fd9e999604b9a107f36731",
+    "size": 0,
+    "path": "parts/pololu_mp6550_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "1e6d4641507e35e75d7585bc30b96b7cd4953ada",
+    "size": 0,
+    "path": "parts/pololu_mpq6612a_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "679d07e57a2a0ecc533c8213e78af3aed2e029e5",
+    "size": 0,
+    "path": "parts/pololu_mpq6612a_single_brushed_dc_motor_driver_carrier_soldered_connectors"
+  },
+  {
+    "type": "directory",
+    "oid": "8bc7da5b66181bbb25608173e56859b38673bd9d",
+    "size": 0,
+    "path": "parts/pololu_qik_2s15v9_dual_serial_motor_controller"
+  },
+  {
+    "type": "directory",
+    "oid": "7f8dbc7e9317f0ee7eaffe66f3f108034b341c57",
+    "size": 0,
+    "path": "parts/pololu_romi_32u4_control_board"
+  },
+  {
+    "type": "directory",
+    "oid": "d02ad91929fbfe3b2b99fce1d2ee7ea34ab77a06",
+    "size": 0,
+    "path": "parts/pololu_romi_ball_caster"
+  },
+  {
+    "type": "directory",
+    "oid": "acb32655f5a40af0280bf5eab476a5bc4d802d83",
+    "size": 0,
+    "path": "parts/pololu_romi_ball_caster_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "b60d7c672e04709aad231241500a68126e71ff2f",
+    "size": 0,
+    "path": "parts/pololu_romi_ball_caster_pink"
+  },
+  {
+    "type": "directory",
+    "oid": "c956b926cbb765d16e1617a42734a3104c898ee9",
+    "size": 0,
+    "path": "parts/pololu_romi_ball_caster_red"
+  },
+  {
+    "type": "directory",
+    "oid": "b59335fd3da1478b3c3daea6356ad3cd68f19e8f",
+    "size": 0,
+    "path": "parts/pololu_romi_ball_caster_white"
+  },
+  {
+    "type": "directory",
+    "oid": "2378867ffcaa802034ab3fdc4ec2cf23d3073d13",
+    "size": 0,
+    "path": "parts/pololu_romi_ball_caster_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "c89d013a28b9469ba81b445f42bcee0affbb2159",
+    "size": 0,
+    "path": "parts/pololu_romi_bumper_switches_left"
+  },
+  {
+    "type": "directory",
+    "oid": "4d788704522202f0b63d59b995034c900a22ab60",
+    "size": 0,
+    "path": "parts/pololu_romi_bumper_switches_right"
+  },
+  {
+    "type": "directory",
+    "oid": "452423893545a605f7491e7d0e69d85a6f8b3d8a",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis"
+  },
+  {
+    "type": "directory",
+    "oid": "51c38bebee8c6b34b49f5647ad107898d26c544e",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "28748712436a22858056313237b0acf2bf556ce2",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_kit"
+  },
+  {
+    "type": "directory",
+    "oid": "0928122b302a9c1272d75dccf7bb1515ba0d15fd",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_kit_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "e99fd58ce2fa805e0f465bf80772a7b95e2d041b",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_kit_pink"
+  },
+  {
+    "type": "directory",
+    "oid": "357d34c8359bdc94360f9e8d781d34a106da3617",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_kit_red"
+  },
+  {
+    "type": "directory",
+    "oid": "23b00e5779e929fc3fa78c61170fe45e9b5521da",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_kit_white"
+  },
+  {
+    "type": "directory",
+    "oid": "7e61704a8a5951fc43516e51c111a990a8a28910",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_kit_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "43f8b1d4e4d734f91120033f82713e19955b3f40",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_pink"
+  },
+  {
+    "type": "directory",
+    "oid": "2d8e7f307778d9eee13f91fa79cfa0172b3af1e6",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_red"
+  },
+  {
+    "type": "directory",
+    "oid": "a96e95b207c3200abdec9b6b39a3463fbed7ea5b",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_white"
+  },
+  {
+    "type": "directory",
+    "oid": "501d3d6409b30dc2e5e7b9608c210690fca9dbe1",
+    "size": 0,
+    "path": "parts/pololu_romi_chassis_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "f7492e9652a0f43a3bd027c3c18ff04021fb4cf1",
+    "size": 0,
+    "path": "parts/pololu_romi_motor_driver_power_board"
+  },
+  {
+    "type": "directory",
+    "oid": "ca36a5829703f6e1c55746e525ba8c8d9751f44b",
+    "size": 0,
+    "path": "parts/pololu_romi_six_nimh_aa_cells"
+  },
+  {
+    "type": "directory",
+    "oid": "b8364aa1a65f2a86f01f2c42ce09617ad893914d",
+    "size": 0,
+    "path": "parts/pololu_sub_micro_plastic_planetary_gearmotor_136"
+  },
+  {
+    "type": "directory",
+    "oid": "89ffbc6bfbdbf733d2102b6b8bb8a2137bbfbb69",
+    "size": 0,
+    "path": "parts/pololu_sub_micro_plastic_planetary_gearmotor_26"
+  },
+  {
+    "type": "directory",
+    "oid": "e665f978fc91b32f5acd9025998d194150b02f8a",
+    "size": 0,
+    "path": "parts/pololu_sub_micro_plastic_planetary_gearmotor_5_1"
+  },
+  {
+    "type": "directory",
+    "oid": "548ac756a97b2ba67a0666c4fb3cff733ac64c55",
+    "size": 0,
+    "path": "parts/pololu_sub_micro_plastic_planetary_gearmotor_700"
+  },
+  {
+    "type": "directory",
+    "oid": "56a1563b7e8b3fb2aa1aebb1f931e83c3cddc13a",
+    "size": 0,
+    "path": "parts/pololu_tb6612fng_dual_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "1a80036e690a2598e4a882b18b8ebcb21004c7c7",
+    "size": 0,
+    "path": "parts/pololu_tb67h420ftg_dual_single_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "5c6fc68b0a4d2534aba369d664c4e0413ab19ca2",
+    "size": 0,
+    "path": "parts/pololu_tb67h453fng_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "e1bf2e6cb724715f5f5ff2064120ea9407fc46f6",
+    "size": 0,
+    "path": "parts/pololu_tb67h453ftg_qfn_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "416e791694950a1923753f4ed1519f27366136fe",
+    "size": 0,
+    "path": "parts/pololu_tb9051ftg_single_brushed_dc_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "b2371898bd756528e6cd0ce97e0a01bb32cb1455",
+    "size": 0,
+    "path": "parts/pololu_vl53l0x_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "b2371898bd756528e6cd0ce97e0a01bb32cb1455",
+    "size": 0,
+    "path": "parts/pololu_vl53l1x_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "b2371898bd756528e6cd0ce97e0a01bb32cb1455",
+    "size": 0,
+    "path": "parts/pololu_vl53l3cx_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "b2371898bd756528e6cd0ce97e0a01bb32cb1455",
+    "size": 0,
+    "path": "parts/pololu_vl53l4cd_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "3b9d12923ec2a35f9105f191e42164ca672a352f",
+    "size": 0,
+    "path": "parts/pololu_vl6180x_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "a277b7a32fae387a810005b9e02c99253ed404bd",
+    "size": 0,
+    "path": "parts/pololu_vnh5019_motor_driver_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "3acd8725cf63cde10c2a0c22e835de8a2830cbe6",
+    "size": 0,
+    "path": "parts/pololu_wheel_32x7mm"
+  },
+  {
+    "type": "directory",
+    "oid": "e650d0e4065b49826974e47934e4a8c3012c28e6",
+    "size": 0,
+    "path": "parts/pololu_wheel_32x7mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "7ea3aa039236c2d0f2363fc83564fa2e1c58863e",
+    "size": 0,
+    "path": "parts/pololu_wheel_40x7mm"
+  },
+  {
+    "type": "directory",
+    "oid": "3bd23cc2dfd5392c53ec8fd8349e9a858b8ef9bb",
+    "size": 0,
+    "path": "parts/pololu_wheel_40x7mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "04568dc8a7d616413d32e0edbfb61f765522655f",
+    "size": 0,
+    "path": "parts/pololu_wheel_40x7mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "e540986dbcfa04ebbba945dea4c19f251d38a005",
+    "size": 0,
+    "path": "parts/pololu_wheel_42x19mm"
+  },
+  {
+    "type": "directory",
+    "oid": "b8205c57822fe1492599141cd4379a6b19c8c879",
+    "size": 0,
+    "path": "parts/pololu_wheel_60x8mm"
+  },
+  {
+    "type": "directory",
+    "oid": "c8282492ed7d04186dd4aa48ded89769bfa082cb",
+    "size": 0,
+    "path": "parts/pololu_wheel_60x8mm_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "8ae90fee1bb547481758e36da2d0f9c57394c9c9",
+    "size": 0,
+    "path": "parts/pololu_wheel_60x8mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "3caf58eee3dcefcc8c8484b428c584b5d61ec7d5",
+    "size": 0,
+    "path": "parts/pololu_wheel_60x8mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "49c89da5bc66142bb968ad7559865718b5e016b1",
+    "size": 0,
+    "path": "parts/pololu_wheel_60x8mm_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "be5ed0d99bb81beec09b33659d14e1be06e1abdb",
+    "size": 0,
+    "path": "parts/pololu_wheel_70x8mm"
+  },
+  {
+    "type": "directory",
+    "oid": "ac743724e2cb753375f8f543ef0affe908b162d3",
+    "size": 0,
+    "path": "parts/pololu_wheel_70x8mm_black"
+  },
+  {
+    "type": "directory",
+    "oid": "2cff2ede22ff7fb502b2521c102069171e1d5870",
+    "size": 0,
+    "path": "parts/pololu_wheel_70x8mm_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "fc13fe47df0b8b26a4b91a57cd9754e891dd2cf0",
+    "size": 0,
+    "path": "parts/pololu_wheel_70x8mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "33095565665efd47a32d85d93e0c6ed4063e60ea",
+    "size": 0,
+    "path": "parts/pololu_wheel_70x8mm_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "9873a2aa23126d31d42b4627351bfe4eff2964f3",
+    "size": 0,
+    "path": "parts/pololu_wheel_80x10mm"
+  },
+  {
+    "type": "directory",
+    "oid": "9463694eecb7d4d0515384fb23b031a28c227acc",
+    "size": 0,
+    "path": "parts/pololu_wheel_80x10mm_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "2a3b40c31edcd6f1e786a7d05a23f923cf19bde9",
+    "size": 0,
+    "path": "parts/pololu_wheel_80x10mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "a44a26fa0b8581367171c77b7375c0d09c3623bd",
+    "size": 0,
+    "path": "parts/pololu_wheel_80x10mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "65b5e48aad476290ffcbd3e2be571bf898dd7f54",
+    "size": 0,
+    "path": "parts/pololu_wheel_80x10mm_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "e14b139fd9b2e12c70712ceef744ed43939872b5",
+    "size": 0,
+    "path": "parts/pololu_wheel_90x10mm"
+  },
+  {
+    "type": "directory",
+    "oid": "bd864b9bd5a3acdeb28d805b2c580628a4401439",
+    "size": 0,
+    "path": "parts/pololu_wheel_90x10mm_blue"
+  },
+  {
+    "type": "directory",
+    "oid": "65ab2a4fac1629a3d75ee60679b0409e59435fc7",
+    "size": 0,
+    "path": "parts/pololu_wheel_90x10mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "0c871971e6905391ec82d09919ec2da31e633230",
+    "size": 0,
+    "path": "parts/pololu_wheel_90x10mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "5f2436ce1bbada77cf163dc3772e6ac45b15eb51",
+    "size": 0,
+    "path": "parts/pololu_wheel_90x10mm_yellow"
+  },
+  {
+    "type": "directory",
+    "oid": "7a71917d1f952308fa38ed4513cb04c6ea584cdb",
+    "size": 0,
+    "path": "parts/pololu_wheel_micro_servo_40x7mm_black"
+  },
+  {
+    "type": "directory",
+    "oid": "ccd5df923aefa3cddb356c37353a7a63683004f7",
+    "size": 0,
+    "path": "parts/pololu_wheel_micro_servo_40x7mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "db0225f21c24bb0bce3e474f0f9a55400663ae84",
+    "size": 0,
+    "path": "parts/pololu_wheel_micro_servo_40x7mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "e885cc805f5ab5baca0283d8d2043676b522f28c",
+    "size": 0,
+    "path": "parts/pololu_wheel_micro_servo_60x8mm_black"
+  },
+  {
+    "type": "directory",
+    "oid": "1bb31a62b462c59bcbb77ed3d98fbdccba7475c3",
+    "size": 0,
+    "path": "parts/pololu_wheel_micro_servo_60x8mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "41ac50fae425b83aaa2a8448f47d8f5ef3d1da1c",
+    "size": 0,
+    "path": "parts/pololu_wheel_micro_servo_60x8mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "76890a1d4391ce86bc066ca0eca5d39ec7fe71ec",
+    "size": 0,
+    "path": "parts/pololu_wheel_standard_servo_70x8mm_black"
+  },
+  {
+    "type": "directory",
+    "oid": "d428dd0cd0716825bfa563f5563090fea837718f",
+    "size": 0,
+    "path": "parts/pololu_wheel_standard_servo_70x8mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "07cb1ab418cb5e8999f469fc24f26c71526f7998",
+    "size": 0,
+    "path": "parts/pololu_wheel_standard_servo_70x8mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "acfc561d7f875f8e5db8256f51ef547d2665124c",
+    "size": 0,
+    "path": "parts/pololu_wheel_standard_servo_90x10mm_black"
+  },
+  {
+    "type": "directory",
+    "oid": "bd3b10301c9fd01e5da8170197ddee7e9f44ba35",
+    "size": 0,
+    "path": "parts/pololu_wheel_standard_servo_90x10mm_red"
+  },
+  {
+    "type": "directory",
+    "oid": "cec37ae36c6fece7a37eee3deda37e9a6f59767b",
+    "size": 0,
+    "path": "parts/pololu_wheel_standard_servo_90x10mm_white"
+  },
+  {
+    "type": "directory",
+    "oid": "5421414e0a111ecf2e6edee4b5a3b50f57f642ca",
+    "size": 0,
+    "path": "parts/raspberry_pi_5_4gb"
+  },
+  {
+    "type": "directory",
+    "oid": "5421414e0a111ecf2e6edee4b5a3b50f57f642ca",
+    "size": 0,
+    "path": "parts/raspberry_pi_5_8gb"
+  },
+  {
+    "type": "directory",
+    "oid": "6a24b711ac893bd7411c2bcc0c08ad30c7a5d749",
+    "size": 0,
+    "path": "parts/raspberry_pi_camera_module_3"
+  },
+  {
+    "type": "directory",
+    "oid": "b3cf9f733eff8c9df38b8b7af84d2c4d20020a40",
+    "size": 0,
+    "path": "parts/realsense_d405"
+  },
+  {
+    "type": "directory",
+    "oid": "7f25e10450edac08d9a4a9db2e5c1ab0d640398c",
+    "size": 0,
+    "path": "parts/realsense_d415"
+  },
+  {
+    "type": "directory",
+    "oid": "c05ce4a355c81d8454db60d6ea7b0461966a26c4",
+    "size": 0,
+    "path": "parts/realsense_d421"
+  },
+  {
+    "type": "directory",
+    "oid": "1b341a2982c11c458d95fcb3c6c87499e1ae6ced",
+    "size": 0,
+    "path": "parts/realsense_d435"
+  },
+  {
+    "type": "directory",
+    "oid": "c615153df1aea59d0d4bf29d9c37fce59c7e58e8",
+    "size": 0,
+    "path": "parts/realsense_d435i"
+  },
+  {
+    "type": "directory",
+    "oid": "8985fdda141bb9737d337983bb48fce25bb34eb6",
+    "size": 0,
+    "path": "parts/realsense_d436"
+  },
+  {
+    "type": "directory",
+    "oid": "bc5d7199902cf59880262b998bdc622f0a9be32a",
+    "size": 0,
+    "path": "parts/realsense_d455"
+  },
+  {
+    "type": "directory",
+    "oid": "9b9fa482ee3af8ffea3df97a21594c87d4df2746",
+    "size": 0,
+    "path": "parts/robotdsl_3pi_imu_low"
+  },
+  {
+    "type": "directory",
+    "oid": "da452e9a79a474a82b9857f8958c269cf6a37f0c",
+    "size": 0,
+    "path": "parts/robotdsl_3pi_ir_rear"
+  },
+  {
+    "type": "directory",
+    "oid": "6b8cf861e4495fd21cb31834387bc8addfb5274b",
+    "size": 0,
+    "path": "parts/robotdsl_3pi_ir_twin_front"
+  },
+  {
+    "type": "directory",
+    "oid": "1e912abaa5208589b518edac705cd2fe7e06c03d",
+    "size": 0,
+    "path": "parts/robotdsl_3pi_sonar_front"
+  },
+  {
+    "type": "directory",
+    "oid": "f2e6113dba953b8c95177153e2d5c38285f2fca3",
+    "size": 0,
+    "path": "parts/robotdsl_3pi_tof_front"
+  },
+  {
+    "type": "directory",
+    "oid": "7188c6612dab05adf2a025cab63d436e54eec3e3",
+    "size": 0,
+    "path": "parts/robotdsl_3pi_tof_side"
+  },
+  {
+    "type": "directory",
+    "oid": "b067690fd7c77e6bfe3ba1d5b139299e474300b2",
+    "size": 0,
+    "path": "parts/robotdsl_ackermann_pi5_rplidar_tower"
+  },
+  {
+    "type": "directory",
+    "oid": "6da51aa8f245037696276fc464651c868c1bbec2",
+    "size": 0,
+    "path": "parts/robotdsl_ackermann_pi5_s3_tower"
+  },
+  {
+    "type": "directory",
+    "oid": "4c32d26418fa0097b3230fe724165c54e54c05e5",
+    "size": 0,
+    "path": "parts/robotdsl_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "588cd321e492c55862e51bf5918efbb220acf227",
+    "size": 0,
+    "path": "parts/robotdsl_arm_compact"
+  },
+  {
+    "type": "directory",
+    "oid": "c21f427122d4219ce640ff11f9ecd3ebab92b8ac",
+    "size": 0,
+    "path": "parts/robotdsl_arm_draw"
+  },
+  {
+    "type": "directory",
+    "oid": "8b379913f179d25a89aad85bedcedbb2ad3fc8c2",
+    "size": 0,
+    "path": "parts/robotdsl_arm_long"
+  },
+  {
+    "type": "directory",
+    "oid": "b17c07a552cfc2a185c5ae93d0f58b36c313416b",
+    "size": 0,
+    "path": "parts/robotdsl_arm_pick"
+  },
+  {
+    "type": "directory",
+    "oid": "38bf18cb5c368083d8df6ae3212420c78889c6d0",
+    "size": 0,
+    "path": "parts/robotdsl_arm_six"
+  },
+  {
+    "type": "directory",
+    "oid": "04d5e4954b9d2273593f8c610482e44c16153765",
+    "size": 0,
+    "path": "parts/robotdsl_biped_body"
+  },
+  {
+    "type": "directory",
+    "oid": "d41935734d9030562bf61324a31879cf9d527c9c",
+    "size": 0,
+    "path": "parts/robotdsl_biped_leg_left"
+  },
+  {
+    "type": "directory",
+    "oid": "2cd518ab813c9e3063eb719ae89f7f0e94e396ce",
+    "size": 0,
+    "path": "parts/robotdsl_biped_leg_right"
+  },
+  {
+    "type": "directory",
+    "oid": "ddee33bfeccec0736a1b86e697c99a4abd33cd01",
+    "size": 0,
+    "path": "parts/robotdsl_dog_body"
+  },
+  {
+    "type": "directory",
+    "oid": "c709295b7349e76c24d457a4aff444ae418d1251",
+    "size": 0,
+    "path": "parts/robotdsl_dog_leg_left"
+  },
+  {
+    "type": "directory",
+    "oid": "956ff1585b314d801e1792f849a037208eceda4c",
+    "size": 0,
+    "path": "parts/robotdsl_dog_leg_right"
+  },
+  {
+    "type": "directory",
+    "oid": "d4d096a7c6a5674835ae7148f2bd243e8d0ede1a",
+    "size": 0,
+    "path": "parts/robotdsl_drawing_arm_channel_dock"
+  },
+  {
+    "type": "directory",
+    "oid": "f7a7da3758be80ffeaa13fe81295b7d3a447eb45",
+    "size": 0,
+    "path": "parts/robotdsl_drawing_arm_parked"
+  },
+  {
+    "type": "directory",
+    "oid": "0ca535b73c5f1cc26841f23306b60d7b982d0894",
+    "size": 0,
+    "path": "parts/robotdsl_hexapod_body"
+  },
+  {
+    "type": "directory",
+    "oid": "e3d779c76bc154e3e22c2f29aba525f8ceae907e",
+    "size": 0,
+    "path": "parts/robotdsl_hexapod_front_sensor_yoke"
+  },
+  {
+    "type": "directory",
+    "oid": "efaec1f3d20485b9a3d0bc6c5618c8a94ba8d8f6",
+    "size": 0,
+    "path": "parts/robotdsl_hexapod_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "422729640bc6c73d038a8be827e230869e7309a9",
+    "size": 0,
+    "path": "parts/robotdsl_hiwonder_compact_arm_front_dock"
+  },
+  {
+    "type": "directory",
+    "oid": "52813973ea686ceb2eb6af08a574110ea12271a6",
+    "size": 0,
+    "path": "parts/robotdsl_hiwonder_compact_arm_rear_dock"
+  },
+  {
+    "type": "directory",
+    "oid": "5050289984973e8d107d6f6002e9a6bd1d0531c8",
+    "size": 0,
+    "path": "parts/robotdsl_hiwonder_dual_arm_pi5_cradle"
+  },
+  {
+    "type": "directory",
+    "oid": "a67c9b66ddc2742e83d87f712b8f82bf92a3c1a7",
+    "size": 0,
+    "path": "parts/robotdsl_jetacker_tinyf_side_saddle"
+  },
+  {
+    "type": "directory",
+    "oid": "1a752dca581d2801c3295a5ddbaf30ac406f86d7",
+    "size": 0,
+    "path": "parts/robotdsl_l2_service_cap"
+  },
+  {
+    "type": "directory",
+    "oid": "494c9261f6cb7f6fb42d0092efe1c4fc859a2bc6",
+    "size": 0,
+    "path": "parts/robotdsl_lego42109_lsm6dso_side_case"
+  },
+  {
+    "type": "directory",
+    "oid": "a4f07c07e20f4f4967d536b288efdee8f2e88fed",
+    "size": 0,
+    "path": "parts/robotdsl_lego42129_rear_d405_guard"
+  },
+  {
+    "type": "directory",
+    "oid": "1345389c7e141d52cf93c945003d00cd046430e5",
+    "size": 0,
+    "path": "parts/robotdsl_lynx_cmp10a_edge_cradle"
+  },
+  {
+    "type": "directory",
+    "oid": "3e6cf7f6eeee549b632fb46ae34359cb7a653f91",
+    "size": 0,
+    "path": "parts/robotdsl_lynx_oak_forward_boom"
+  },
+  {
+    "type": "directory",
+    "oid": "0b2b5fd1ec9a2ceaef5887799139c4ac6ee18960",
+    "size": 0,
+    "path": "parts/robotdsl_mentorpi_low_d435i_bridge"
+  },
+  {
+    "type": "directory",
+    "oid": "389dce66d96ae738102335efb6d8137233f1d975",
+    "size": 0,
+    "path": "parts/robotdsl_microros_mb1010_rear_outrigger"
+  },
+  {
+    "type": "directory",
+    "oid": "7dde2fda591178c304d54e9833d7560454884bb3",
+    "size": 0,
+    "path": "parts/robotdsl_mount_strafer_omx_pair_bridge"
+  },
+  {
+    "type": "directory",
+    "oid": "66c11dd07ce76ee5b7ed35f387a7a0bbecaf240f",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_arm_rosbot_omx_low_base"
+  },
+  {
+    "type": "directory",
+    "oid": "2254e9cadc3c8e097126330f7f3e41a45653d317",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_arm_strafer_omx_channel_bridge"
+  },
+  {
+    "type": "directory",
+    "oid": "423792fc53efd41264d4aaa352a48ed5a6c8c814",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_compute_ackermann"
+  },
+  {
+    "type": "directory",
+    "oid": "dbaf0f9d917719d168ce8aabbff0e57008f1aade",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_compute_romi"
+  },
+  {
+    "type": "directory",
+    "oid": "36154584cb7ed092caef437c5d3131c9b4a5504b",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_compute_rosbot_aux"
+  },
+  {
+    "type": "directory",
+    "oid": "cb118ba8fcc15fe1e39bb86903bd4b5b1b0dbb83",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_compute_strafer"
+  },
+  {
+    "type": "directory",
+    "oid": "83b1645b400a3c7860b8ee41a12b064a1a20c20a",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_romi_vl53"
+  },
+  {
+    "type": "directory",
+    "oid": "56c8573c6828d82b3029eb65de832c998b45f790",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_rosbot_irs16a"
+  },
+  {
+    "type": "directory",
+    "oid": "cd995a58b660797d9ccc3ae3500513d36dec6409",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_rosbot_irs17a"
+  },
+  {
+    "type": "directory",
+    "oid": "7e2d7efd0d514b51bb33c2318fc3bfc00d75b08c",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_rosbot_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "30eed09d0363717ec91a7281ae84aaf8e1d75dc3",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_rosbot_v2"
+  },
+  {
+    "type": "directory",
+    "oid": "2301288ea3be3e914cdb24d3d19eb575f254e6e7",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_rosbot_v2_side_entry"
+  },
+  {
+    "type": "directory",
+    "oid": "376dbc5c0aa9e4fbdc5e1b89fad749a1852a5e5d",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sensor_strafer_mb1010"
+  },
+  {
+    "type": "directory",
+    "oid": "b219e0be5be10c0911dae98f1600b15c426f41e2",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sight_camera_rosbot"
+  },
+  {
+    "type": "directory",
+    "oid": "cd7399365e0482bda517c0cbd86df54fd44fc982",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sight_lidar_cap"
+  },
+  {
+    "type": "directory",
+    "oid": "be234381f80ea018062171ca68e07f3720142648",
+    "size": 0,
+    "path": "parts/robotdsl_mount_v3_sight_lidar_spider"
+  },
+  {
+    "type": "directory",
+    "oid": "d30d7679fe1f03e0fa5f6811c722cba06d6d83b1",
+    "size": 0,
+    "path": "parts/robotdsl_panther_s2_offset_pylon"
+  },
+  {
+    "type": "directory",
+    "oid": "47feea0faf9cef5db62f078094c70064a37bf4b1",
+    "size": 0,
+    "path": "parts/robotdsl_quadruped_body"
+  },
+  {
+    "type": "directory",
+    "oid": "219860b7bddf946b577afc98170e3d9fb314777c",
+    "size": 0,
+    "path": "parts/robotdsl_quadruped_leg"
+  },
+  {
+    "type": "directory",
+    "oid": "1db9baa890c0284064519b56a5d83984d90d6449",
+    "size": 0,
+    "path": "parts/robotdsl_r2_altimu_low_carrier"
+  },
+  {
+    "type": "directory",
+    "oid": "b7cedb79c8e90c45a2d146cc91056d2e4ede0dc4",
+    "size": 0,
+    "path": "parts/robotdsl_r2_tinyf_side_cradle"
+  },
+  {
+    "type": "directory",
+    "oid": "baa6c1d0f47274cb5b27fe4f3644cbbb7a3ab254",
+    "size": 0,
+    "path": "parts/robotdsl_romi_camera3_nose_cage"
+  },
+  {
+    "type": "directory",
+    "oid": "0f1fe344dddd3e3a3345beb8b264e6b4eaaaff2a",
+    "size": 0,
+    "path": "parts/robotdsl_romi_mb1010_front_yoke"
+  },
+  {
+    "type": "directory",
+    "oid": "34479154e01ad933f5977b7027d84e977ab3538e",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot3_d405_low_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "30f3642aa1dac39a0ebdd4be1b04689fd0f124d6",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_camera3_nose_cage"
+  },
+  {
+    "type": "directory",
+    "oid": "e11e7ee4ea5ca24549ac69203821329173ecd3a8",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_d405_inspection_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "8e19a32edb65260eba71f7d529a7a4f80fdf4c31",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_d435_rear_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "ef7ae36cccd87fc57c24b1c2d141bd34e9fd0c87",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_mb1010_nose_yoke"
+  },
+  {
+    "type": "directory",
+    "oid": "07acc0ad2e21ecb2814d12897408e6f5d44f0809",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_oak_front_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "640ff36b9e29902c0b7127ba94ae7e85dec293ba",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_rplidar_open_crown"
+  },
+  {
+    "type": "directory",
+    "oid": "57e54cba76070b3eca16e7399a52dd711d415f08",
+    "size": 0,
+    "path": "parts/robotdsl_rosbot_s3_compact_crown"
+  },
+  {
+    "type": "directory",
+    "oid": "2c9c6c2a15c551b0cd426ebfe09b3f1ebd0473cd",
+    "size": 0,
+    "path": "parts/robotdsl_rosorin_low_l2_roof_adapter"
+  },
+  {
+    "type": "directory",
+    "oid": "2858002e3e646d56d3698c56157e3e2373dcf1ea",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_camera3_front_cage"
+  },
+  {
+    "type": "directory",
+    "oid": "4fa487461b7ae7cd4c836d2395f08aae211064ca",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_d405_inspection_arm"
+  },
+  {
+    "type": "directory",
+    "oid": "fe1bcef69a96f600b078713543564996005b1b56",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_d435_front_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "064df12483b04e9a3aff8c1ea1344b3c2d7fb2af",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_l2_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "7628c77ae6a67c1d15b121cc943d7f1b8bdcfff9",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_oak_front_yoke"
+  },
+  {
+    "type": "directory",
+    "oid": "8da000981845886ff0c6c62fcec672ef2b32f00d",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_rplidar_rear_portal"
+  },
+  {
+    "type": "directory",
+    "oid": "19f4f197c710857e0d7835737d4fbc8bf5826669",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_s3_rear_portal"
+  },
+  {
+    "type": "directory",
+    "oid": "8c6a7412637d8c386314d61badcaba29d5f36661",
+    "size": 0,
+    "path": "parts/robotdsl_strafer_vl53_front_fork"
+  },
+  {
+    "type": "directory",
+    "oid": "194011deccb6d7be3a3f9aa6772d2f7f2dda45ba",
+    "size": 0,
+    "path": "parts/robotdsl_x3_left_floor_tof_bracket"
+  },
+  {
+    "type": "directory",
+    "oid": "e9fc69089cb5e48ae43c210a34af0179e0ff0630",
+    "size": 0,
+    "path": "parts/robotdsl_x3_right_floor_tof_bracket"
+  }
+]

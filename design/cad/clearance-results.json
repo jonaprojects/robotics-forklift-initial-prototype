@@ -1,0 +1,288 @@
+{
+  "checks": [
+    {
+      "check": "Selected structural parts across 71 poses",
+      "status": "PASS",
+      "evidence": "14910 pair/pose bounding-box checks; 0 unresolved pairs. Gear meshes and fasteners excluded. Lower-link/bracket broad overlaps resolved with conservative 4.1 mm profile-radius envelopes; minimum clearance 6.301 mm."
+    },
+    {
+      "check": "Gear tooth center-plane section test",
+      "status": "PASS",
+      "evidence": "30 center-plane tests at 0.04 mm grid spacing. Maximum estimated overlap area 0.0000 mm^2. This does not test all axial sections or certify real tooth contact."
+    }
+  ],
+  "unresolved_structural_pairs": [],
+  "gear_section_results": [
+    {
+      "angle_degrees": -9.594068226860461,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -9.594068226860461,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -7.1230633535132855,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -7.1230633535132855,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -4.652058480166109,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -4.652058480166109,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -2.181053606818934,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": -2.181053606818934,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 0.28995126652824293,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 0.28995126652824293,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 2.76095613987542,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 2.76095613987542,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 5.231961013222594,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 5.231961013222594,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 7.70296588656977,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 7.70296588656977,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 10.173970759916948,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 10.173970759916948,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 12.644975633264124,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 12.644975633264124,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 15.115980506611303,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 15.115980506611303,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 17.586985379958477,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 17.586985379958477,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 20.05799025330565,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 20.05799025330565,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 22.52899512665283,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 22.52899512665283,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 25.0,
+      "pair": [
+        "GEAR-8-A",
+        "GEAR-24-A"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    },
+    {
+      "angle_degrees": 25.0,
+      "pair": [
+        "GEAR-8-B",
+        "GEAR-24-B"
+      ],
+      "overlap_samples": 0,
+      "estimated_overlap_area_mm2": 0.0
+    }
+  ],
+  "excluded": "Full robot; all pin/axle/hub interferences; friction fits; motor interior; switch/stops; camera; full 3D gear collision/contact."
+}

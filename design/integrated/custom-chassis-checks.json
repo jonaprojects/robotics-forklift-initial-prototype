@@ -1,0 +1,609 @@
+{
+  "revision": "I0.3",
+  "status": "HOLD - lift/chassis bridge and sensing/stop brackets still open",
+  "checks": [
+    {
+      "check": "motor-rail-L--8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-L",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -7.984337018391557,
+        0.0,
+        26.498259668710173
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "motor-rail-L-8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-L",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        8.012182319028788,
+        0.0,
+        26.831979742330134
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "corner-post-L--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--88",
+        "CHASSIS-TOWER-L--88"
+      ],
+      "point_mm": [
+        -88.30065377911325,
+        0.0,
+        40.82617863803071
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "corner-rail-L--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--88",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -71.97041436807294,
+        0.0,
+        25.163379374230328
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "tower-brickrail-L--88",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-L--88",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -89.80239411040307,
+        0.0,
+        112.81051565642227
+      ],
+      "connection": "3L pin through 8/4/8/4 mm stack"
+    },
+    {
+      "check": "corner-post-L--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--32",
+        "CHASSIS-TOWER-L--32"
+      ],
+      "point_mm": [
+        -32.31283609814204,
+        0.0,
+        41.99419889570058
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "corner-rail-L--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--32",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -15.982596687101733,
+        0.0,
+        26.331399631900194
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "tower-brickrail-L--32",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-L--32",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -33.81457642943187,
+        0.0,
+        113.97853591409213
+      ],
+      "connection": "3L pin through 8/4/8/4 mm stack"
+    },
+    {
+      "check": "brick-rail-L--80",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -81.8041344416929,
+        0.0,
+        112.97737569323226
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "brick-rail-L--16",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -17.818057092011514,
+        0.0,
+        114.3122559877121
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "motor-rail-R--8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-R",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -7.984337018391557,
+        0.0,
+        26.498259668710173
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "motor-rail-R-8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-R",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        8.012182319028788,
+        0.0,
+        26.831979742330134
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "corner-post-R--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--88",
+        "CHASSIS-TOWER-R--88"
+      ],
+      "point_mm": [
+        -88.30065377911325,
+        0.0,
+        40.82617863803071
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "corner-rail-R--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--88",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -71.97041436807294,
+        0.0,
+        25.163379374230328
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "tower-brickrail-R--88",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-R--88",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -89.80239411040307,
+        0.0,
+        112.81051565642227
+      ],
+      "connection": "3L pin through 8/4/8/4 mm stack"
+    },
+    {
+      "check": "corner-post-R--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--32",
+        "CHASSIS-TOWER-R--32"
+      ],
+      "point_mm": [
+        -32.31283609814204,
+        0.0,
+        41.99419889570058
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "corner-rail-R--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--32",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -15.982596687101733,
+        0.0,
+        26.331399631900194
+      ],
+      "connection": "round pin axis"
+    },
+    {
+      "check": "tower-brickrail-R--32",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-R--32",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -33.81457642943187,
+        0.0,
+        113.97853591409213
+      ],
+      "connection": "3L pin through 8/4/8/4 mm stack"
+    },
+    {
+      "check": "brick-rail-R--80",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -81.8041344416929,
+        0.0,
+        112.97737569323226
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "brick-rail-R--16",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -17.818057092011514,
+        0.0,
+        114.3122559877121
+      ],
+      "connection": "coaxial stand-off: inner pin -> 2L pin-joiner -> outer pin"
+    },
+    {
+      "check": "caster-crossshaft--88-L",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -87.96693370549329,
+        0.0,
+        24.829659300610366
+      ],
+      "connection": "8L center axle + stopped joiner + 7L outer axle; through braced rail stack"
+    },
+    {
+      "check": "caster-crossshaft--88-R",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -87.96693370549329,
+        0.0,
+        24.829659300610366
+      ],
+      "connection": "8L center axle + stopped joiner + 7L outer axle; through braced rail stack"
+    },
+    {
+      "check": "caster-crossshaft--72-L",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -71.97041436807294,
+        0.0,
+        25.163379374230328
+      ],
+      "connection": "8L center axle + stopped joiner + 7L outer axle; through braced rail stack"
+    },
+    {
+      "check": "caster-crossshaft--72-R",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -71.97041436807294,
+        0.0,
+        25.163379374230328
+      ],
+      "connection": "8L center axle + stopped joiner + 7L outer axle; through braced rail stack"
+    },
+    {
+      "check": "bridge-frame-L-48",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-L",
+        "FRAME-L"
+      ],
+      "point_mm": [
+        46.83546040490979,
+        0.0,
+        83.65409760735125
+      ]
+    },
+    {
+      "check": "bridge-upper-L-48",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-L-48",
+        "BRIDGE-SIDE-L"
+      ],
+      "point_mm": [
+        46.168020257669866,
+        0.0,
+        115.64713628219195
+      ]
+    },
+    {
+      "check": "bridge-frame-L-80",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-L",
+        "FRAME-L"
+      ],
+      "point_mm": [
+        78.82849907975049,
+        0.0,
+        84.32153775459118
+      ]
+    },
+    {
+      "check": "bridge-upper-L-80",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-L-80",
+        "BRIDGE-SIDE-L"
+      ],
+      "point_mm": [
+        78.16105893251056,
+        0.0,
+        116.31457642943187
+      ]
+    },
+    {
+      "check": "bridge-lock-L",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-L",
+        "BRIDGE-POST-L-48"
+      ],
+      "point_mm": [
+        46.501740331289824,
+        0.0,
+        99.6506169447716
+      ]
+    },
+    {
+      "check": "bridge-body-L-0",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-L",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -1.8215377545911764,
+        0.0,
+        114.64597606133206
+      ]
+    },
+    {
+      "check": "bridge-body-L-8",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-L",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        6.176721914119,
+        0.0,
+        114.81283609814204
+      ]
+    },
+    {
+      "check": "bridge-frame-R-48",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-R",
+        "FRAME-R"
+      ],
+      "point_mm": [
+        46.83546040490979,
+        0.0,
+        83.65409760735125
+      ]
+    },
+    {
+      "check": "bridge-upper-R-48",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-R-48",
+        "BRIDGE-SIDE-R"
+      ],
+      "point_mm": [
+        46.168020257669866,
+        0.0,
+        115.64713628219195
+      ]
+    },
+    {
+      "check": "bridge-frame-R-80",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-R",
+        "FRAME-R"
+      ],
+      "point_mm": [
+        78.82849907975049,
+        0.0,
+        84.32153775459118
+      ]
+    },
+    {
+      "check": "bridge-upper-R-80",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-R-80",
+        "BRIDGE-SIDE-R"
+      ],
+      "point_mm": [
+        78.16105893251056,
+        0.0,
+        116.31457642943187
+      ]
+    },
+    {
+      "check": "bridge-lock-R",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-R",
+        "BRIDGE-POST-R-48"
+      ],
+      "point_mm": [
+        46.501740331289824,
+        0.0,
+        99.6506169447716
+      ]
+    },
+    {
+      "check": "bridge-body-R-0",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-R",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -1.8215377545911764,
+        0.0,
+        114.64597606133206
+      ]
+    },
+    {
+      "check": "bridge-body-R-8",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-R",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        6.176721914119,
+        0.0,
+        114.81283609814204
+      ]
+    },
+    {
+      "check": "TIRE-L floor contact",
+      "status": "PASS",
+      "bottom_mm": 0.00603117256687824
+    },
+    {
+      "check": "TIRE-R floor contact",
+      "status": "PASS",
+      "bottom_mm": 0.00603117256687824
+    },
+    {
+      "check": "CASTER-BALL floor contact",
+      "status": "PASS",
+      "bottom_mm": 0.0019578727010554076
+    },
+    {
+      "check": "Fork entry height after stance pitch",
+      "status": "PASS",
+      "bounds": [
+        225.5505596158792,
+        3.0666860036809958,
+        11.600000000000001
+      ]
+    },
+    {
+      "check": "No opaque chassis proxy",
+      "status": "PASS"
+    },
+    {
+      "check": "Main rail / motor side clearance L",
+      "status": "PASS",
+      "gap_mm": 4.0
+    },
+    {
+      "check": "Main rail / motor side clearance R",
+      "status": "PASS",
+      "gap_mm": 4.0
+    },
+    {
+      "check": "Side bridge / raised motor height clearance",
+      "status": "PASS",
+      "gap_mm": 8.799999999999997
+    },
+    {
+      "check": "TOP-TOWER-PIN-L--88 24mm stack span",
+      "status": "PASS",
+      "span_mm": [
+        52.0,
+        76.0
+      ]
+    },
+    {
+      "check": "TOP-TOWER-PIN-L--32 24mm stack span",
+      "status": "PASS",
+      "span_mm": [
+        52.0,
+        76.0
+      ]
+    },
+    {
+      "check": "TOP-TOWER-PIN-R--88 24mm stack span",
+      "status": "PASS",
+      "span_mm": [
+        52.0,
+        76.0
+      ]
+    },
+    {
+      "check": "TOP-TOWER-PIN-R--32 24mm stack span",
+      "status": "PASS",
+      "span_mm": [
+        52.0,
+        76.0
+      ]
+    }
+  ],
+  "stance_pitch_degrees": -1.1951336497700356,
+  "low_linkage_degrees": -18.573919151765168,
+  "explicit_physical_lego_pieces": 235,
+  "catalog_color_types": 34,
+  "notes": [
+    "Axes are necessary checks, not complete fit/insertion proof.",
+    "Pin engagement and friction-stack stiffness require physical testing.",
+    "Old 0.85kg chassis balance estimate is invalidated by the new chassis. Recalculate with measured weights/CG.",
+    "Brick represented by stock LDraw configuration; battery variant/cable access not verified."
+  ]
+}

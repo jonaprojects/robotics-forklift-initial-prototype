@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "local_links_checked": true,
+  "missing_local_links": [],
+  "visual_reviews": [
+    "Full guide opening and specification table",
+    "Touch bracket section rendered separately with identical document CSS",
+    "Whole robot viewer",
+    "Isolated touch-bracket step"
+  ],
+  "notes": "Section layout screenshot is a QA extraction, not a screenshot of a scrolled browser page."
+}

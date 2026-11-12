@@ -1,0 +1,23 @@
+[
+  {
+    "pose": 0,
+    "a": "TOUCH-SENSOR",
+    "b": "TOUCH-BUTTON",
+    "area": 50.56,
+    "y": -56.0
+  },
+  {
+    "pose": 20,
+    "a": "TOUCH-SENSOR",
+    "b": "TOUCH-BUTTON",
+    "area": 27.84,
+    "y": -56.0
+  },
+  {
+    "pose": 28,
+    "a": "TOUCH-SENSOR",
+    "b": "TOUCH-BUTTON",
+    "area": 27.84,
+    "y": -56.0
+  }
+]

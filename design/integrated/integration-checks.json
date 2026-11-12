@@ -1,0 +1,42 @@
+[
+  {
+    "check": "Lift adapter hole L at X=48",
+    "status": "PASS",
+    "evidence": "Real part bore axes coincide after stance rotation."
+  },
+  {
+    "check": "Lift adapter hole L at X=80",
+    "status": "PASS",
+    "evidence": "Real part bore axes coincide after stance rotation."
+  },
+  {
+    "check": "Lift adapter hole R at X=48",
+    "status": "PASS",
+    "evidence": "Real part bore axes coincide after stance rotation."
+  },
+  {
+    "check": "Lift adapter hole R at X=80",
+    "status": "PASS",
+    "evidence": "Real part bore axes coincide after stance rotation."
+  },
+  {
+    "check": "Sequence part order stable",
+    "status": "PASS",
+    "evidence": "71 poses have identical part IDs and rigid placements."
+  },
+  {
+    "check": "Tire ground contact",
+    "status": "PASS",
+    "evidence": "56 mm tire diameter and 28 mm axle height."
+  },
+  {
+    "check": "Pallet pickup clearance",
+    "status": "PASS",
+    "evidence": "Recalculated after stance pitch; initial fork-to-pallet gap is 4.4 mm."
+  },
+  {
+    "check": "Proper rotations",
+    "status": "PASS",
+    "evidence": "No non-rigid scaling in component placements."
+  }
+]

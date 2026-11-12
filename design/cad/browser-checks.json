@@ -1,0 +1,23 @@
+{
+  "viewerSha256": "76BBD5726BADAFE7922D8F90AB7C7BAC3BDAA6B8795C2A8837373049D0D07DBC",
+  "checks": [
+    {
+      "name": "lowered",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-render=\"ok\" data-pose=\"0\" data-gl-error=\"0\">"
+    },
+    {
+      "name": "raised",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-render=\"ok\" data-pose=\"70\" data-gl-error=\"0\">"
+    },
+    {
+      "name": "gears",
+      "status": "PASS",
+      "exitCode": 0,
+      "body": "<body data-render=\"ok\" data-pose=\"0\" data-gl-error=\"0\">"
+    }
+  ]
+}

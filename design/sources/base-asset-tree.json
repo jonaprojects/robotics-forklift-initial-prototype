@@ -1,0 +1,20 @@
+[
+  {
+    "type": "directory",
+    "oid": "409f38463985372a2725849bf5c1c58400b50032",
+    "size": 0,
+    "path": "parts/lego_45544_driving_base_chassis/assets"
+  },
+  {
+    "type": "file",
+    "oid": "24d150ad460d44844cb4367c285b30ffea954d65",
+    "size": 2949208,
+    "lfs": {
+      "oid": "60f194f21d1065fedfe5573bc408d6a88d6b36bb83ccbf2fa31af20779635e37",
+      "size": 2949208,
+      "pointerSize": 132
+    },
+    "xetHash": "3eae6fa58843ecd58dba7249e62b09d617cc70811859b3b7cfd8e9cc8ec2c3e2",
+    "path": "parts/lego_45544_driving_base_chassis/assets/model.glb"
+  }
+]

@@ -1,0 +1,10 @@
+0 Project envelope / fixture: project-cube
+0 Name: project-cube.dat
+0 Author: EV3 project
+0 !LICENSE CC BY 4.0. Original project envelope, not a LEGO part.
+4 16 -50 -50 -50 -50 50 -50 50 50 -50 50 -50 -50
+4 16 -50 -50 50 50 -50 50 50 50 50 -50 50 50
+4 16 -50 -50 -50 50 -50 -50 50 -50 50 -50 -50 50
+4 16 50 -50 -50 50 50 -50 50 50 50 50 -50 50
+4 16 50 50 -50 -50 50 -50 -50 50 50 50 50 50
+4 16 -50 50 -50 -50 -50 -50 -50 -50 50 -50 50 50

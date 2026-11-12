@@ -1,0 +1,10 @@
+0 Project envelope / fixture: project-stop
+0 Name: project-stop.dat
+0 Author: EV3 project
+0 !LICENSE CC BY 4.0. Original project envelope, not a LEGO part.
+4 16 -7.5 -10 -5 -7.5 10 -5 7.5 10 -5 7.5 -10 -5
+4 16 -7.5 -10 5 7.5 -10 5 7.5 10 5 -7.5 10 5
+4 16 -7.5 -10 -5 7.5 -10 -5 7.5 -10 5 -7.5 -10 5
+4 16 7.5 -10 -5 7.5 10 -5 7.5 10 5 7.5 -10 5
+4 16 7.5 10 -5 -7.5 10 -5 -7.5 10 5 7.5 10 5
+4 16 -7.5 10 -5 -7.5 -10 -5 -7.5 -10 5 -7.5 10 5

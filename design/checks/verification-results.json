@@ -1,0 +1,72 @@
+[
+  {
+    "check": "Lift target",
+    "status": "PASS",
+    "evidence": "28.621 mm rise"
+  },
+  {
+    "check": "Endpoint fore-aft shift",
+    "status": "PASS",
+    "evidence": "-3.768 mm; not the full swept excursion"
+  },
+  {
+    "check": "Full fore-aft excursion",
+    "status": "PASS",
+    "evidence": "4.497 mm; carriage initially moves forward, then rearward"
+  },
+  {
+    "check": "Ideal parallelogram closure",
+    "status": "PASS",
+    "evidence": "maximum residual 7.11e-15 mm over 351 positions"
+  },
+  {
+    "check": "Gear reduction",
+    "status": "PASS",
+    "evidence": "9:1; motor travel 315 degrees"
+  },
+  {
+    "check": "Gear stage 1 nominal pitch spacing",
+    "status": "PASS",
+    "evidence": "24 mm shaft spacing vs 24 mm pitch requirement; tooth solids/hubs not checked"
+  },
+  {
+    "check": "Gear stage 2 nominal pitch spacing",
+    "status": "PASS",
+    "evidence": "24 mm shaft spacing vs 24 mm pitch requirement; tooth solids/hubs not checked"
+  },
+  {
+    "check": "Fork and pallet channel alignment",
+    "status": "PASS",
+    "evidence": "[-16, 16]"
+  },
+  {
+    "check": "Nominal insertion clearances",
+    "status": "PASS",
+    "evidence": "4 mm per side; 4 mm above fork; 4 mm below fork"
+  },
+  {
+    "check": "Pallet floor clearance after pickup",
+    "status": "PASS",
+    "evidence": "24.621 mm; initial empty fork-to-deck gap consumes 4 mm of stroke"
+  },
+  {
+    "check": "Insertion behind pallet center",
+    "status": "PASS",
+    "evidence": "48 mm insertion vs 32 mm center depth; assumes centered load"
+  },
+  {
+    "check": "Nominal output axle stack length",
+    "status": "PASS",
+    "evidence": "88 mm outer-to-outer nominal stack in 96 mm axle; real hubs/spacers not checked"
+  },
+  {
+    "check": "Illustrative gravity torque budget",
+    "status": "PASS",
+    "evidence": "0.0942 Nm ideal peak requirement vs 0.3600 Nm modeled output; mass/efficiency assumptions only, no capacity certification"
+  },
+  {
+    "check": "Listed lift subset vs official stock",
+    "status": "PASS",
+    "evidence": "14 listed element types checked; excludes chassis use and unresolved hardware"
+  }
+]

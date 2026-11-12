@@ -1,0 +1,1609 @@
+{
+  "revision": "B0.1",
+  "status": "FIRST PHYSICAL BUILD CANDIDATE - camera identity and lab acceptance open",
+  "checks": [
+    {
+      "check": "Inherited frame: motor-rail-L--8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-L",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -8,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: motor-rail-L-8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-L",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        8,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-post-L--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--88",
+        "CHASSIS-TOWER-L--88"
+      ],
+      "point_mm": [
+        -88,
+        0,
+        44
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-rail-L--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--88",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -72,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: tower-brickrail-L--88",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-L--88",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -88,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-post-L--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--32",
+        "CHASSIS-TOWER-L--32"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        44
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-rail-L--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-L--32",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -16,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: tower-brickrail-L--32",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-L--32",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: brick-rail-L--80",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -80,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: brick-rail-L--16",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        -16,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: motor-rail-R--8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-R",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -8,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: motor-rail-R-8",
+      "status": "PASS",
+      "parts": [
+        "DRIVE-MOTOR-R",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        8,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-post-R--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--88",
+        "CHASSIS-TOWER-R--88"
+      ],
+      "point_mm": [
+        -88,
+        0,
+        44
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-rail-R--88",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--88",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -72,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: tower-brickrail-R--88",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-R--88",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -88,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-post-R--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--32",
+        "CHASSIS-TOWER-R--32"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        44
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: corner-rail-R--32",
+      "status": "PASS",
+      "parts": [
+        "LOWER-CORNER-R--32",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -16,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: tower-brickrail-R--32",
+      "status": "PASS",
+      "parts": [
+        "CHASSIS-TOWER-R--32",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: brick-rail-R--80",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -80,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: brick-rail-R--16",
+      "status": "PASS",
+      "parts": [
+        "EV3-BRICK",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        -16,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: caster-crossshaft--88-L",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -88,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: caster-crossshaft--88-R",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -88,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: caster-crossshaft--72-L",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-L"
+      ],
+      "point_mm": [
+        -72,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Inherited frame: caster-crossshaft--72-R",
+      "status": "PASS",
+      "parts": [
+        "CASTER-SOCKET",
+        "CHASSIS-LOWER-R"
+      ],
+      "point_mm": [
+        -72,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Adapter R/48",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-R",
+        "FRAME-R"
+      ],
+      "point_mm": [
+        48,
+        0,
+        84
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge upper R/48",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-R-48",
+        "BRIDGE-SIDE-R"
+      ],
+      "point_mm": [
+        48,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Adapter R/80",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-R",
+        "FRAME-R"
+      ],
+      "point_mm": [
+        80,
+        0,
+        84
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge upper R/80",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-R-80",
+        "BRIDGE-SIDE-R"
+      ],
+      "point_mm": [
+        80,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge corner R",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-R",
+        "BRIDGE-POST-R-48"
+      ],
+      "point_mm": [
+        48,
+        0,
+        100
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge body R/0",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-R",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        0,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge body R/8",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-R",
+        "BRICK-RAIL-R"
+      ],
+      "point_mm": [
+        8,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Adapter L/48",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-L",
+        "FRAME-L"
+      ],
+      "point_mm": [
+        48,
+        0,
+        84
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge upper L/48",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-L-48",
+        "BRIDGE-SIDE-L"
+      ],
+      "point_mm": [
+        48,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Adapter L/80",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-L",
+        "FRAME-L"
+      ],
+      "point_mm": [
+        80,
+        0,
+        84
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge upper L/80",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-POST-L-80",
+        "BRIDGE-SIDE-L"
+      ],
+      "point_mm": [
+        80,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge corner L",
+      "status": "PASS",
+      "parts": [
+        "ADAPTER-RAIL-L",
+        "BRIDGE-POST-L-48"
+      ],
+      "point_mm": [
+        48,
+        0,
+        100
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge body L/0",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-L",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        0,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Bridge body L/8",
+      "status": "PASS",
+      "parts": [
+        "BRIDGE-SIDE-L",
+        "BRICK-RAIL-L"
+      ],
+      "point_mm": [
+        8,
+        0,
+        116
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Sensor side pin 28",
+      "status": "PASS",
+      "parts": [
+        "COLOR-SENSOR",
+        "COLOR-BRACKET"
+      ],
+      "point_mm": [
+        -44,
+        0,
+        28
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "check": "Sensor side pin 44",
+      "status": "PASS",
+      "parts": [
+        "COLOR-SENSOR",
+        "COLOR-BRACKET"
+      ],
+      "point_mm": [
+        -44,
+        0,
+        44
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "check": "Color crossblock pin 28",
+      "status": "PASS",
+      "parts": [
+        "COLOR-BRACKET",
+        "COLOR-BLOCK-28"
+      ],
+      "point_mm": [
+        -36,
+        0,
+        36
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "check": "Color crossshaft tower 28/-1",
+      "status": "PASS",
+      "parts": [
+        "COLOR-BLOCK-28",
+        "CHASSIS-TOWER-R--32"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Color crossshaft tower 28/1",
+      "status": "PASS",
+      "parts": [
+        "COLOR-BLOCK-28",
+        "CHASSIS-TOWER-L--32"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        28
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Color crossblock pin 68",
+      "status": "PASS",
+      "parts": [
+        "COLOR-BRACKET",
+        "COLOR-BLOCK-68"
+      ],
+      "point_mm": [
+        -36,
+        0,
+        60
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "check": "Color crossshaft tower 68/-1",
+      "status": "PASS",
+      "parts": [
+        "COLOR-BLOCK-68",
+        "CHASSIS-TOWER-R--32"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        68
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Color crossshaft tower 68/1",
+      "status": "PASS",
+      "parts": [
+        "COLOR-BLOCK-68",
+        "CHASSIS-TOWER-L--32"
+      ],
+      "point_mm": [
+        -32,
+        0,
+        68
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch clamp 4",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-SENSOR",
+        "TOUCH-MOUNT-BEAM"
+      ],
+      "point_mm": [
+        120,
+        0,
+        4
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch brace 4",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-LOWER-L",
+        "TOUCH-MOUNT-BEAM"
+      ],
+      "point_mm": [
+        120,
+        0,
+        4
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch unused brace-layer filler 4",
+      "status": "PASS"
+    },
+    {
+      "check": "Touch clamp 20",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-SENSOR",
+        "TOUCH-MOUNT-BEAM"
+      ],
+      "point_mm": [
+        120,
+        0,
+        20
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch brace 20",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-UPPER-L",
+        "TOUCH-MOUNT-BEAM"
+      ],
+      "point_mm": [
+        120,
+        0,
+        20
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch unused brace-layer filler 20",
+      "status": "PASS"
+    },
+    {
+      "check": "Touch rear lower",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-STAND",
+        "TOUCH-LOWER-L"
+      ],
+      "point_mm": [
+        96,
+        0,
+        4
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch rear upper",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-STAND",
+        "TOUCH-UPPER-L"
+      ],
+      "point_mm": [
+        96,
+        0,
+        20
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Touch stand shaft 52",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-STAND",
+        "FRAME-R"
+      ],
+      "point_mm": [
+        96,
+        0,
+        52
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Stop anchor bore 52",
+      "status": "PASS",
+      "parts": [
+        "STOP-COLUMN-ANCHOR-52",
+        "FRAME-L"
+      ],
+      "point_mm": [
+        96,
+        0,
+        52
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Stop anchor vertical axis 52",
+      "status": "PASS"
+    },
+    {
+      "check": "Touch stand shaft 84",
+      "status": "PASS",
+      "parts": [
+        "TOUCH-STAND",
+        "FRAME-R"
+      ],
+      "point_mm": [
+        96,
+        0,
+        84
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Stop anchor bore 84",
+      "status": "PASS",
+      "parts": [
+        "STOP-COLUMN-ANCHOR-84",
+        "FRAME-L"
+      ],
+      "point_mm": [
+        96,
+        0,
+        84
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "check": "Stop anchor vertical axis 84",
+      "status": "PASS"
+    },
+    {
+      "check": "Stop key LOW",
+      "status": "PASS",
+      "parts": [
+        "STOP-BEAM-LOW",
+        "STOP-KEY-LOW"
+      ],
+      "point_mm": [
+        96,
+        40,
+        32.2
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "check": "Stop rod support LOW",
+      "status": "PASS",
+      "parts": [
+        "STOP-BEAM-LOW",
+        "STOP-ROD-BLOCK-LOW"
+      ],
+      "point_mm": [
+        120,
+        40,
+        32.2
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "check": "Stop rod axial alignment LOW",
+      "status": "PASS"
+    },
+    {
+      "check": "Stop key HIGH",
+      "status": "PASS",
+      "parts": [
+        "STOP-BEAM-HIGH",
+        "STOP-KEY-HIGH"
+      ],
+      "point_mm": [
+        96,
+        40,
+        76
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "check": "Stop rod support HIGH",
+      "status": "PASS",
+      "parts": [
+        "STOP-BEAM-HIGH",
+        "STOP-ROD-BLOCK-HIGH"
+      ],
+      "point_mm": [
+        120,
+        40,
+        76
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "check": "Stop rod axial alignment HIGH",
+      "status": "PASS"
+    },
+    {
+      "check": "All new rigid transforms",
+      "status": "PASS"
+    },
+    {
+      "check": "Corrected flange / stand-off R",
+      "status": "PASS",
+      "motor_flange_face_mm": 40.0,
+      "tube_inner_face_mm": 40.0
+    },
+    {
+      "check": "Corrected flange / stand-off L",
+      "status": "PASS",
+      "motor_flange_face_mm": 40.0,
+      "tube_inner_face_mm": 40.0
+    },
+    {
+      "check": "No below-floor robot surfaces in 71 poses",
+      "status": "PASS",
+      "intrusions": []
+    },
+    {
+      "check": "Trigger two pin axes across 71 poses",
+      "status": "PASS",
+      "tested_axes": 142
+    },
+    {
+      "check": "Part identity/order constant in animation",
+      "status": "PASS"
+    },
+    {
+      "check": "Three gear meshes across 15 unique linkage angles",
+      "status": "PASS",
+      "grid_mm": 0.05,
+      "samples": [
+        {
+          "pose": 14,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 14,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 14,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 15,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 15,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 15,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 16,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 16,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 16,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 17,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 17,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 17,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 18,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 18,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 18,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 19,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 19,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 19,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 20,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 20,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 20,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 21,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 21,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 21,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 22,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 22,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 22,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 23,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 23,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 23,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 24,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 24,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 24,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 25,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 25,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 25,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 26,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 26,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 26,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 27,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 27,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 27,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 28,
+          "pair": [
+            "GEAR-8-A",
+            "GEAR-24-A"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 28,
+          "pair": [
+            "GEAR-8-B",
+            "GEAR-24-B"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        },
+        {
+          "pose": 28,
+          "pair": [
+            "RAISED-INPUT-40T",
+            "LOWER-EXTERNAL-24T"
+          ],
+          "overlap_samples": 0,
+          "area_mm2": 0.0
+        }
+      ]
+    },
+    {
+      "check": "TIRE-L floor contact",
+      "status": "PASS",
+      "bottom_mm": 0.00603117256687824
+    },
+    {
+      "check": "TIRE-R floor contact",
+      "status": "PASS",
+      "bottom_mm": 0.00603117256687824
+    },
+    {
+      "check": "CASTER-BALL floor contact",
+      "status": "PASS",
+      "bottom_mm": 0.0019578727010554076
+    },
+    {
+      "check": "LOW stop lies outside normal stroke",
+      "status": "PASS",
+      "sampled_contact_degrees": -18.97574531320417,
+      "resolution_mm": 0.05
+    },
+    {
+      "check": "HIGH stop lies outside normal stroke",
+      "status": "PASS",
+      "sampled_contact_degrees": 29.844451904296875,
+      "resolution_mm": 0.05
+    },
+    {
+      "check": "Fork clears floor at sampled lower stop",
+      "status": "PASS",
+      "minimum_fork_surface_mm": 2.7457750880929304
+    },
+    {
+      "check": "Selected structural sections at low/mid/high",
+      "status": "PASS",
+      "unresolved_pairs": [],
+      "excluded_supplied_switch_internal_pairs": 3,
+      "grid_mm": 0.4
+    }
+  ],
+  "summary": {
+    "PASS": 80
+  },
+  "normal_low_degrees": -18.573919151765168,
+  "normal_high_degrees": 25,
+  "nominal_motor_stroke_degrees": 235.2991634195319,
+  "stop_contacts_degrees": {
+    "LOW": -18.97574531320417,
+    "HIGH": 29.844451904296875
+  },
+  "verification_limits": [
+    "Section sampling is not full 3D collision/contact certification; fastener interference fits and motor internals excluded.",
+    "Only 15 unique normal linkage angles occur in the 71-pose demonstration; structural audit covers three poses.",
+    "Switch compression is illustrated at 1.8 mm maximum; actual electrical trip and travel must be measured.",
+    "Camera dimensions, mass, connector clearance and interface are assumptions.",
+    "Cable routes are assembly instructions, not a modeled swept cable volume.",
+    "Payload rating, loaded stability, connection stiffness and assembly access need physical bench validation."
+  ]
+}

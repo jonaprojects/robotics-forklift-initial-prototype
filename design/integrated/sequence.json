@@ -1,0 +1,428 @@
+[
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 0.0,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 2.8571428571428568,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 5.7142857142857135,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 8.571428571428571,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 11.428571428571427,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 14.285714285714283,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 17.142857142857142,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 20.0,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 22.857142857142854,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 25.71428571428571,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 28.571428571428566,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 31.428571428571427,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 34.285714285714285,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 37.14285714285714,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Approach (open-loop illustration)",
+    "robot_x": 40.0,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": -15.461496355210516,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": -12.349073558655862,
+    "pallet_rise": 0.6516041717600025
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": -9.236650762101206,
+    "pallet_rise": 3.2222478027380745
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": -6.124227965546557,
+    "pallet_rise": 5.812700999349673
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": -3.0118051689919,
+    "pallet_rise": 8.41532151826144
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 0.10061762756275376,
+    "pallet_rise": 11.022431220630331
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 3.213040424117411,
+    "pallet_rise": 13.626338723817858
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 6.325463220672065,
+    "pallet_rise": 16.21936209217545
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 9.437886017226722,
+    "pallet_rise": 18.793851499959885
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 12.55030881378138,
+    "pallet_rise": 21.342211799519305
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 15.662731610336033,
+    "pallet_rise": 23.85692492817038
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 18.775154406890692,
+    "pallet_rise": 26.330572087662723
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 21.88757720344534,
+    "pallet_rise": 28.755855630797583
+  },
+  {
+    "stage": "Lift and take up entry clearance",
+    "robot_x": 40,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 34.285714285714285,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 28.57142857142859,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 22.857142857142872,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 17.142857142857157,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 11.428571428571441,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 5.714285714285722,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": 7.105427357601002e-15,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -5.714285714285687,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -11.428571428571423,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -17.142857142857117,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -22.85714285714286,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -28.571428571428555,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -34.28571428571429,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -39.999999999999986,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -45.71428571428572,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -51.428571428571416,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -57.14285714285715,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -62.85714285714285,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -68.57142857142854,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -74.28571428571429,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Reverse carrying pallet",
+    "robot_x": -79.99999999999999,
+    "angle_degrees": 25.0,
+    "pallet_rise": 31.125620590632003
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 21.887577203445332,
+    "pallet_rise": 28.755855630797583
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 18.77515440689069,
+    "pallet_rise": 26.330572087662723
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 15.662731610336023,
+    "pallet_rise": 23.856924928170372
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 12.550308813781378,
+    "pallet_rise": 21.342211799519305
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 9.43788601722671,
+    "pallet_rise": 18.79385149995987
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 6.325463220672067,
+    "pallet_rise": 16.21936209217545
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 3.213040424117398,
+    "pallet_rise": 13.626338723817842
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": 0.10061762756275376,
+    "pallet_rise": 11.022431220630331
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": -3.0118051689919128,
+    "pallet_rise": 8.415321518261425
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": -6.124227965546557,
+    "pallet_rise": 5.812700999349673
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": -9.236650762101197,
+    "pallet_rise": 3.2222478027380816
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": -12.349073558655865,
+    "pallet_rise": 0.6516041717599954
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": -15.461496355210507,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Lower at delivery location",
+    "robot_x": -80,
+    "angle_degrees": -18.57391915176518,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -87.14285714285711,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -94.28571428571429,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -101.4285714285714,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -108.57142857142858,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -115.7142857142857,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -122.85714285714286,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  },
+  {
+    "stage": "Withdraw forks",
+    "robot_x": -130.0,
+    "angle_degrees": -18.573919151765168,
+    "pallet_rise": 0
+  }
+]

@@ -1,0 +1,383 @@
+{
+  "revision": "P2-R1",
+  "status": "digital lift module only; whole robot not released",
+  "parts": 84,
+  "unique_parts": 20,
+  "low_angle_degrees": -9.594068226860461,
+  "high_angle_degrees": 25,
+  "checks": [
+    {
+      "check": "Rigid part transforms only",
+      "status": "PASS",
+      "detail": "Every placed part has unit scale and a proper rotation; no stretched or mirrored replacement parts."
+    },
+    {
+      "check": "Reject invalid P1 middle shaft location",
+      "status": "PASS",
+      "detail": "Regression check: P1 required a transverse hole at X=-24. The actual frame does not have that hole, so that layout is rejected."
+    },
+    {
+      "check": "Revised bearing X=-32, Y=-16",
+      "status": "PASS",
+      "detail": "Hole axis extracted from actual LDraw primitives."
+    },
+    {
+      "check": "Revised bearing X=-32, Y=16",
+      "status": "PASS",
+      "detail": "Hole axis extracted from actual LDraw primitives."
+    },
+    {
+      "check": "Revised bearing X=-16, Y=-16",
+      "status": "PASS",
+      "detail": "Hole axis extracted from actual LDraw primitives."
+    },
+    {
+      "check": "Revised bearing X=-16, Y=16",
+      "status": "PASS",
+      "detail": "Hole axis extracted from actual LDraw primitives."
+    },
+    {
+      "check": "Revised bearing X=0, Y=-16",
+      "status": "PASS",
+      "detail": "Hole axis extracted from actual LDraw primitives."
+    },
+    {
+      "check": "Revised bearing X=0, Y=16",
+      "status": "PASS",
+      "detail": "Hole axis extracted from actual LDraw primitives."
+    },
+    {
+      "check": "low moving pivot LOWER-L",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "low moving pivot UPPER-L",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "low fork bracket L joint 0",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low fork bracket L joint 1",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low fork bracket L joint 2",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low fork bracket L joint 3",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low moving pivot LOWER-R",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "low moving pivot UPPER-R",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "low fork bracket R joint 0",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low fork bracket R joint 1",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low fork bracket R joint 2",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "low fork bracket R joint 3",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal moving pivot LOWER-L",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "horizontal moving pivot UPPER-L",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "horizontal fork bracket L joint 0",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal fork bracket L joint 1",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal fork bracket L joint 2",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal fork bracket L joint 3",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal moving pivot LOWER-R",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "horizontal moving pivot UPPER-R",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "horizontal fork bracket R joint 0",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal fork bracket R joint 1",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal fork bracket R joint 2",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "horizontal fork bracket R joint 3",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised moving pivot LOWER-L",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "raised moving pivot UPPER-L",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "raised fork bracket L joint 0",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised fork bracket L joint 1",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised fork bracket L joint 2",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised fork bracket L joint 3",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised moving pivot LOWER-R",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "raised moving pivot UPPER-R",
+      "status": "PASS",
+      "detail": "Matching round-hole axes in link and carriage."
+    },
+    {
+      "check": "raised fork bracket R joint 0",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised fork bracket R joint 1",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised fork bracket R joint 2",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "raised fork bracket R joint 3",
+      "status": "PASS",
+      "detail": "Both real parts have the required pin axis."
+    },
+    {
+      "check": "No floor penetration in 71 sampled positions",
+      "status": "PASS",
+      "detail": "Lowest actual surface: 4.400 mm, part CARRIAGE-L. No inter-part collision claim."
+    },
+    {
+      "check": "Low fork underside L",
+      "status": "PASS",
+      "detail": "Actual mesh bottom 4.400 mm; actual width 8.000 mm."
+    },
+    {
+      "check": "Low fork underside R",
+      "status": "PASS",
+      "detail": "Actual mesh bottom 4.400 mm; actual width 8.000 mm."
+    },
+    {
+      "check": "Motor face mounting hole Z=40",
+      "status": "PASS",
+      "detail": "Actual motor and spine hole axes coincide; two 2L pins."
+    },
+    {
+      "check": "Motor face mounting hole Z=56",
+      "status": "PASS",
+      "detail": "Actual motor and spine hole axes coincide; two 2L pins."
+    },
+    {
+      "check": "Three-layer motor bracket pin spans the stack",
+      "status": "PASS",
+      "detail": "Actual pin spans Y=-36 to -12 mm, matching the three 8 mm layers at -32, -24 and -16 mm."
+    },
+    {
+      "check": "Actual hollow spacer axis TIE-SPACER-0",
+      "status": "PASS",
+      "detail": "The tube uses native X as its bore axis; that real primitive axis must align with the transverse shaft."
+    },
+    {
+      "check": "Actual hollow spacer axis TIE-SPACER-1",
+      "status": "PASS",
+      "detail": "The tube uses native X as its bore axis; that real primitive axis must align with the transverse shaft."
+    },
+    {
+      "check": "Actual hollow spacer axis TIE-SPACER-2",
+      "status": "PASS",
+      "detail": "The tube uses native X as its bore axis; that real primitive axis must align with the transverse shaft."
+    },
+    {
+      "check": "Actual hollow spacer axis TIE-SPACER-3",
+      "status": "PASS",
+      "detail": "The tube uses native X as its bore axis; that real primitive axis must align with the transverse shaft."
+    },
+    {
+      "check": "Actual hollow spacer axis TIE-SPACER-4",
+      "status": "PASS",
+      "detail": "The tube uses native X as its bore axis; that real primitive axis must align with the transverse shaft."
+    },
+    {
+      "check": "Fastener, tube, shaft and gear axial orientation",
+      "status": "PASS",
+      "detail": "Native axes are part-specific: X for pins/axles/tubes, Z for gears/bushes/rotor. All align with world Y."
+    }
+  ],
+  "minimum_surface_z": {
+    "FRAME-L": 44.0,
+    "FRAME-R": 44.0,
+    "INPUT-AXLE": 45.6,
+    "INTERMEDIATE-AXLE": 45.60000276584875,
+    "OUTPUT-AXLE": 45.600015249598535,
+    "GEAR-8-A": 43.020128475409365,
+    "GEAR-24-A": 35.040049496387596,
+    "GEAR-8-B": 43.02012875909063,
+    "GEAR-24-B": 35.0400855474599,
+    "INPUT-COLLAR-0": 44.39994656363651,
+    "INPUT-COLLAR-1": 44.39994656363651,
+    "INTERMEDIATE-COLLAR-0": 44.399975646495655,
+    "INTERMEDIATE-COLLAR-1": 44.399975646495655,
+    "OUTPUT-COLLAR-0": 44.3999095486185,
+    "OUTPUT-COLLAR-1": 44.3999095486185,
+    "INPUT-INNER-HALF--10": 44.39994656363651,
+    "INPUT-INNER-HALF-10": 44.39994656363651,
+    "INTERMEDIATE-INNER-HALF--10": 44.399975646495655,
+    "INTERMEDIATE-INNER-HALF-10": 44.399975646495655,
+    "OUTPUT-INNER-HALF--10": 44.3999095486185,
+    "OUTPUT-INNER-HALF-10": 44.3999095486185,
+    "INPUT-INNER-BUSH": 44.39994656363651,
+    "OUTPUT-INNER-BUSH": 44.3999095486185,
+    "UPPER-PIVOT-AXLE": 77.6,
+    "LOWER-LINK-L": 36.45035213014023,
+    "UPPER-LINK-L": 68.45035213014023,
+    "DRIVE-COUPLER-L": 43.117018796806896,
+    "COUPLER-PIN-L": 43.54626666666667,
+    "UPPER-COLLAR-L": 76.4,
+    "LOWER-LINK-R": 36.45035213014023,
+    "UPPER-LINK-R": 68.45035213014023,
+    "DRIVE-COUPLER-R": 43.117018796806896,
+    "COUPLER-PIN-R": 43.54626666666667,
+    "UPPER-COLLAR-R": 76.4,
+    "CARRIAGE-L": 4.399999999999999,
+    "CARRIAGE-PIVOT-LOWER-L": 36.8,
+    "CARRIAGE-PIVOT-UPPER-L": 68.8,
+    "FORK-BRACKET-L": 4.4,
+    "FORK-L": 4.4,
+    "BRACKET-PIN-L-0": 4.8796,
+    "BRACKET-PIN-L-1": 20.8796,
+    "BRACKET-PIN-L-2": 4.8796,
+    "BRACKET-PIN-L-3": 4.8796,
+    "CARRIAGE-R": 4.399999999999999,
+    "CARRIAGE-PIVOT-LOWER-R": 36.8,
+    "CARRIAGE-PIVOT-UPPER-R": 68.8,
+    "FORK-BRACKET-R": 4.4,
+    "FORK-R": 4.4,
+    "BRACKET-PIN-R-0": 4.8796,
+    "BRACKET-PIN-R-1": 20.8796,
+    "BRACKET-PIN-R-2": 4.8796,
+    "BRACKET-PIN-R-3": 4.8796,
+    "TIE-AXLE-0": 45.6,
+    "TIE-SPACER-0": 44.0,
+    "TIE-BUSH-0": 44.4,
+    "TIE-RETAINER-0--1": 44.4,
+    "TIE-RETAINER-0-1": 44.4,
+    "TIE-AXLE-1": 77.6,
+    "TIE-SPACER-1": 76.0,
+    "TIE-BUSH-1": 76.4,
+    "TIE-RETAINER-1--1": 76.4,
+    "TIE-RETAINER-1-1": 76.4,
+    "TIE-AXLE-2": 77.6,
+    "TIE-SPACER-2": 76.0,
+    "TIE-BUSH-2": 76.4,
+    "TIE-RETAINER-2--1": 76.4,
+    "TIE-RETAINER-2-1": 76.4,
+    "TIE-AXLE-3": 13.6,
+    "TIE-SPACER-3": 12.0,
+    "TIE-BUSH-3": 12.4,
+    "TIE-RETAINER-3--1": 12.4,
+    "TIE-RETAINER-3-1": 12.4,
+    "TIE-AXLE-4": 53.6,
+    "TIE-SPACER-4": 52.0,
+    "TIE-BUSH-4": 52.4,
+    "TIE-RETAINER-4--1": 52.4,
+    "TIE-RETAINER-4-1": 52.4,
+    "MOTOR-BRACKET-SPINE": 12.399999999999999,
+    "MOTOR-BRACKET-SPACER": 68.4,
+    "MOTOR-BRACKET-TOP-PIN": 76.8796,
+    "MOTOR-FACE-PIN-40": 36.879599999999996,
+    "MOTOR-FACE-PIN-56": 52.879599999999996,
+    "LIFT-MOTOR-BODY": 36.4,
+    "LIFT-MOTOR-ROTOR": 39.99988125252558
+  },
+  "unresolved": [
+    "chassis attachment",
+    "limit switch and hard stops",
+    "color and camera mounts",
+    "full inventory reconciliation",
+    "comprehensive inter-part collision check"
+  ]
+}

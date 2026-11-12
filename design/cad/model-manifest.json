@@ -1,0 +1,14 @@
+[
+  {
+    "file": "lift-low-self-contained.mpd",
+    "sha256": "40ed32cdcae2a16095e8e3fcc050de5af01f74727417c820f34755307634b697"
+  },
+  {
+    "file": "lift-raised-self-contained.mpd",
+    "sha256": "2c1aab9fef7600d434f9f514b8546602bc047d574d4ee29dc34e9f498600986f"
+  },
+  {
+    "file": "EV3-Lift-Viewer.html",
+    "sha256": "76bbd5726badafe7922d8f90ab7c7bac3bdaa6b8795c2a8837373049d0d07dbc"
+  }
+]

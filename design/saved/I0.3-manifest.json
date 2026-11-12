@@ -1,0 +1,6 @@
+{
+  "version": "I0.3",
+  "archive": "EV3-I0.3-preserved.zip",
+  "sha256": "6cd3a9f48bf6036a3925d2865456a351ab3df826c9682434b9aad713bb0a0597",
+  "note": "Preserved before B0.1 development. Historical design; superseded fit corrections are documented in B0.1."
+}

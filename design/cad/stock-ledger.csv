@@ -1,0 +1,20 @@
+﻿design_file,element_id,description,module_required,core_set_total,minimum_extra_for_module
+2780.dat,4121715,black 2L friction pin,12,60,0
+32524.dat,4495930,gray 7L beam,4,4,0
+32526.dat,4585040,white 3x5 right-angle beam,2,4,0
+3647.dat,4514559,dark-gray 8T gear,2,4,0
+3648.dat,4514558,dark-gray 24T gear,2,4,0
+3673.dat,4211807,gray 2L low-friction pin,4,10,0
+3706.dat,370626,black 6L axle,4,4,0
+3707.dat,370726,black 8L axle,2,2,0
+3708.dat,370826,black 12L axle,1,2,0
+3713.dat,4211622,gray full bush,13,10,3
+40490.dat,4211866,gray 9L beam,5,6,0
+4265c.dat,4239601,yellow half bush,18,10,8
+44294.dat,4211805,gray 7L axle,1,5,0
+60483.dat,6006140,black 2L axle-hole/round-hole liftarm,3,4,0
+60485.dat,4535768,gray 9L axle,1,2,0
+62462.dat,4526985,gray 2L pin-joiner tube,5,4,1
+64179.dat,4539880,gray 5x7 open frame,2,3,0
+6558.dat,4514553,blue 3L friction pin,1,30,0
+99455.dat,6008577,EV3 medium motor,1,1,0

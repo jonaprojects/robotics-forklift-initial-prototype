@@ -1,0 +1,98 @@
+[
+  {
+    "text": "1  SUPPORT FRAMES\nTwo Technic 5 x 7 frames\nHold the shafts in alignment",
+    "point": [
+      -24.0,
+      -20.0,
+      77.1716
+    ],
+    "label": [
+      0.045,
+      0.76
+    ]
+  },
+  {
+    "text": "2  INPUT SHAFT\n9L axle - connects to motor\nTurns the first small gear",
+    "point": [
+      -32.0,
+      -43.800000000000004,
+      48.0
+    ],
+    "label": [
+      0.045,
+      0.58
+    ]
+  },
+  {
+    "text": "3  INTERMEDIATE SHAFT\n7L axle - carries a 24T gear\nand an 8T gear together",
+    "point": [
+      -16.0,
+      -27.8,
+      48.0
+    ],
+    "label": [
+      0.045,
+      0.4
+    ]
+  },
+  {
+    "text": "4  GRAY FULL BUSHES\n8 shown - axle collars / spacers\nLimit sideways movement",
+    "point": [
+      0.46665595318594866,
+      -42.4,
+      50.76091134630647
+    ],
+    "label": [
+      0.045,
+      0.22
+    ]
+  },
+  {
+    "text": "5  OUTPUT SHAFT\n12L axle - drives the lift links\nTurns slower with more torque",
+    "point": [
+      -0.6554773044132821,
+      47.0,
+      48.92214397107995
+    ],
+    "label": [
+      0.76,
+      0.76
+    ]
+  },
+  {
+    "text": "6  SMALL GEARS - 8 TEETH\n2 gears: input and middle shaft\nOne is partly hidden in this view",
+    "point": [
+      -32.037417318544435,
+      -5.9,
+      52.97955010388539
+    ],
+    "label": [
+      0.76,
+      0.58
+    ]
+  },
+  {
+    "text": "7  LARGE GEARS - 24 TEETH\n2 gears: middle and output shaft\nEach pair gives 3:1 reduction",
+    "point": [
+      9.340127824599598,
+      2.0999999999999996,
+      55.49795479467987
+    ],
+    "label": [
+      0.76,
+      0.4
+    ]
+  },
+  {
+    "text": "8  YELLOW HALF BUSHES\n6 shown - thin axle spacers\nSome sit behind the front frame",
+    "point": [
+      -32.172035358315604,
+      -10.0,
+      50.69436017048375
+    ],
+    "label": [
+      0.76,
+      0.22
+    ]
+  }
+]

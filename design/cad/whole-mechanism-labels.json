@@ -1,0 +1,110 @@
+[
+  {
+    "text": "1  FIXED SUPPORT FRAMES\nTwo 5 x 7 frames + cross ties\nKeep the gearbox rigid",
+    "point": [
+      -24.0,
+      -20.0,
+      77.1716
+    ],
+    "label": [
+      0.035,
+      0.77
+    ]
+  },
+  {
+    "text": "2  MOTOR BRACKET\n9L spine, pins and spacer\nHolds the motor on the frame",
+    "point": [
+      -30.30296,
+      -35.2,
+      62.30296
+    ],
+    "label": [
+      0.035,
+      0.59
+    ]
+  },
+  {
+    "text": "3  EV3 MEDIUM MOTOR\nPowers the fork-lifting motion\nOne motor for the complete lift",
+    "point": [
+      -41.2,
+      -83.6,
+      54.0
+    ],
+    "label": [
+      0.035,
+      0.41
+    ]
+  },
+  {
+    "text": "4  REDUCTION GEARBOX\nTwo 8T-to-24T stages = 9:1\nSlower motion, greater torque",
+    "point": [
+      -15.999799196224153,
+      -5.9,
+      57.98352180284871
+    ],
+    "label": [
+      0.035,
+      0.23
+    ]
+  },
+  {
+    "text": "5  PARALLEL LIFT ARMS\nFour 7L beams, two per side\nKeep the forks level as they rise",
+    "point": [
+      22.572227360887837,
+      -27.2,
+      92.3980789435939
+    ],
+    "label": [
+      0.77,
+      0.77
+    ]
+  },
+  {
+    "text": "6  MOVING CARRIAGE\nTwo upright 9L beams + ties\nCarry the forks up and down",
+    "point": [
+      45.199813777759196,
+      -19.2,
+      82.58863656355358
+    ],
+    "label": [
+      0.77,
+      0.59
+    ]
+  },
+  {
+    "text": "7  FORK BRACKETS\nWhite 3 x 5 right-angle beams\nJoin each fork to the carriage",
+    "point": [
+      61.19981377775919,
+      -27.2,
+      34.58863656355358
+    ],
+    "label": [
+      0.77,
+      0.41
+    ]
+  },
+  {
+    "text": "8  FORKS\nTwo forward-facing 9L beams\nSlide under and lift a pallet",
+    "point": [
+      113.80573377775919,
+      -19.2,
+      34.58863656355358
+    ],
+    "label": [
+      0.77,
+      0.23
+    ]
+  },
+  {
+    "text": "9  DRIVE AXLE + COUPLERS\nTurn both lower arms together",
+    "point": [
+      0.4836895252959505,
+      -36.0,
+      49.32892604877735
+    ],
+    "label": [
+      0.39,
+      0.125
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EV3 lift - digital prototype</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f6fa;color:#183047;font:15px system-ui,Arial}header{padding:24px 30px 16px;background:white;border-bottom:1px solid #d6e0e9}h1{font-size:26px;margin:0 0 7px}p{margin:7px 0;color:#526477}main{display:grid;grid-template-columns:1fr 300px;height:calc(100vh - 127px);min-height:600px}#stage{position:relative;min-width:0}canvas{width:100%;height:100%;display:block;touch-action:none}aside{background:white;padding:22px;border-left:1px solid #d6e0e9;overflow:auto}label{display:block;font-weight:600;margin-top:20px}input[type=range]{width:100%;accent-color:#237a9c;margin:12px 0}button{background:#eaf0f5;border:1px solid #cbd7e1;color:#183047;border-radius:7px;padding:9px 12px;margin:5px 5px 0 0;cursor:pointer}button:hover{background:#dbe9f0}.pill{display:inline-block;background:#fff0d3;color:#78500b;border-radius:5px;padding:5px 9px;font-size:12px;font-weight:700}h2{font-size:16px;margin:24px 0 8px}.small{font-size:12px;line-height:1.6;color:#526477}.metric{font-size:23px;font-weight:650}#status{position:absolute;bottom:18px;left:22px;background:#ffffffd9;padding:8px 12px;border-radius:5px;font-size:12px}a{color:#176788}ul{padding-left:18px;line-height:1.7}@media(max-width:800px){main{grid-template-columns:1fr;height:auto}#stage{height:65vh}aside{border-left:0;border-top:1px solid #ddd}}
+</style>
+<header><h1>EV3 forklift: digital lift module</h1><p>Real LEGO part geometry. Drag to rotate; scroll to zoom. <span class="pill">Prototype - whole robot not released</span></p></header>
+<main><section id="stage"><canvas id="view"></canvas><div id="status">Loading part geometry...</div></section><aside>
+<div class="metric" id="angle">Lowered</div><p id="travel">Carriage rise: 0 mm</p>
+<label for="pose">Lift position</label><input id="pose" type="range" min="0" max="70" value="0"><div><button id="low">Lower</button><button id="high">Raise</button></div>
+<label for="explode">Separate layers for inspection</label><input id="explode" type="range" min="0" max="32" value="0">
+<button id="all">Whole module</button><button id="gears">Gearbox only</button><button id="reset">Reset view</button>
+<h2>What this model contains</h2><ul><li>Two fixed frames and cross ties</li><li>8T/24T compound reduction</li><li>Four level-lifting links</li><li>Fork carriage and brackets</li><li>Medium motor and its bracket</li></ul>
+<h2>Still required</h2><p class="small">Chassis attachment, limit switch and hard stops, sensor/camera brackets, complete stock reconciliation, and a comprehensive interference check.</p>
+<p class="small">The pallet and payload are omitted. Extra small parts are required beyond the assumed core-set stock; see the review and parts list.</p>
+<h2>Model files</h2><p class="small"><a href="lift-low.ldr">Lowered LDraw assembly</a><br><a href="lift-raised.ldr">Raised LDraw assembly</a><br><a href="Phase-2-Review.md">Engineering review</a><br><a href="lift-parts.csv">Parts list</a><br><a href="ATTRIBUTION.md">LDraw attribution</a></p>
+<p class="small">P2-R1. Source geometry: LDraw contributors, CC BY 2.0 / 4.0. Original assembly: this project. No physical prototype has been tested.</p>
+</aside></main>
+<script>
+'use strict';const D=__MODEL_DATA__;
+const canvas=document.getElementById('view'),statusEl=document.getElementById('status');
+const gl=canvas.getContext('webgl',{antialias:true,alpha:false,preserveDrawingBuffer:true});
+if(!gl){statusEl.textContent='WebGL unavailable. Open the PNG views in the renders folder.';document.body.dataset.render='failed';throw Error('WebGL unavailable');}
+function shader(type,text){const s=gl.createShader(type);gl.shaderSource(s,text);gl.compileShader(s);if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))throw Error(gl.getShaderInfoLog(s));return s;}
+const vs=shader(gl.VERTEX_SHADER,`attribute vec3 position;attribute vec3 normal;attribute vec3 color;uniform mat4 vp;uniform mat4 model;uniform vec3 partColor;varying vec3 vColor;varying vec3 vNormal;void main(){gl_Position=vp*model*vec4(position,1.0);vNormal=mat3(model)*normal;vColor=color.r<0.0?partColor:color;}`);
+const fs=shader(gl.FRAGMENT_SHADER,`precision mediump float;varying vec3 vColor;varying vec3 vNormal;void main(){float shade=.57+.43*abs(dot(normalize(vNormal),normalize(vec3(.3,-.4,.866))));gl_FragColor=vec4(vColor*shade,1.0);}`);
+const program=gl.createProgram();gl.attachShader(program,vs);gl.attachShader(program,fs);gl.linkProgram(program);if(!gl.getProgramParameter(program,gl.LINK_STATUS))throw Error(gl.getProgramInfoLog(program));gl.useProgram(program);
+const uniforms={};for(const n of ['vp','model','partColor'])uniforms[n]=gl.getUniformLocation(program,n);
+const attrs={};for(const n of ['position','normal','color'])attrs[n]=gl.getAttribLocation(program,n);
+function unpack(s){const b=atob(s);const a=new Uint8Array(b.length);for(let i=0;i<b.length;i++)a[i]=b.charCodeAt(i);return new Float32Array(a.buffer);}
+const buffers={};for(const [name,g] of Object.entries(D.geometries)){buffers[name]={count:g.count};for(const [attr,key] of [['position','v'],['normal','n'],['color','c']]){let b=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,b);gl.bufferData(gl.ARRAY_BUFFER,unpack(g[key]),gl.STATIC_DRAW);buffers[name][attr]=b;}}
+function multiply(a,b){let o=new Float32Array(16);for(let c=0;c<4;c++)for(let r=0;r<4;r++)for(let k=0;k<4;k++)o[c*4+r]+=a[k*4+r]*b[c*4+k];return o;}
+function norm(a){let n=Math.hypot(...a);return a.map(v=>v/n);}function cross(a,b){return [a[1]*b[2]-a[2]*b[1],a[2]*b[0]-a[0]*b[2],a[0]*b[1]-a[1]*b[0]];}function dot(a,b){return a.reduce((s,v,i)=>s+v*b[i],0);}
+let yaw=-.9,pitch=.43,distance=310,onlyGears=false;const target=[3,-24,46];
+function draw(){
+const w=canvas.clientWidth,h=canvas.clientHeight,dpr=Math.min(devicePixelRatio||1,2);canvas.width=w*dpr;canvas.height=h*dpr;gl.viewport(0,0,canvas.width,canvas.height);gl.clearColor(.953,.965,.98,1);gl.clear(gl.COLOR_BUFFER_BIT|gl.DEPTH_BUFFER_BIT);gl.enable(gl.DEPTH_TEST);
+const eye=[target[0]+distance*Math.cos(pitch)*Math.cos(yaw),target[1]+distance*Math.cos(pitch)*Math.sin(yaw),target[2]+distance*Math.sin(pitch)];
+const z=norm(eye.map((v,i)=>v-target[i])),x=norm(cross([0,0,1],z)),y=cross(z,x);
+const view=new Float32Array([x[0],y[0],z[0],0,x[1],y[1],z[1],0,x[2],y[2],z[2],0,-dot(x,eye),-dot(y,eye),-dot(z,eye),1]);
+const f=1/Math.tan(.65/2),aspect=w/h,near=1,far=2000;
+const projection=new Float32Array([f/aspect,0,0,0,0,f,0,0,0,0,(far+near)/(near-far),-1,0,0,2*far*near/(near-far),0]);gl.uniformMatrix4fv(uniforms.vp,false,multiply(projection,view));
+const pose=Number(document.getElementById('pose').value),explode=Number(document.getElementById('explode').value),placements=D.poses[pose];
+for(let i=0;i<D.parts.length;i++){const p=D.parts[i];if(onlyGears&&!p.group.startsWith('01')&&!p.group.startsWith('02'))continue;const a=placements[i],g=buffers[p.file],off=Math.sign(a[10])*explode;
+const m=new Float32Array([a[0],a[3],a[6],0,a[1],a[4],a[7],0,a[2],a[5],a[8],0,a[9],a[10]+off,a[11],1]);gl.uniformMatrix4fv(uniforms.model,false,m);gl.uniform3fv(uniforms.partColor,D.palette[String(p.color)]||D.palette['71']);
+for(const name of ['position','normal','color']){gl.bindBuffer(gl.ARRAY_BUFFER,g[name]);gl.enableVertexAttribArray(attrs[name]);gl.vertexAttribPointer(attrs[name],3,gl.FLOAT,false,0,0);}gl.drawArrays(gl.TRIANGLES,0,g.count);}
+const theta=D.low+(D.high-D.low)*pose/70,rise=48*(Math.sin(theta*Math.PI/180)-Math.sin(D.low*Math.PI/180));document.getElementById('angle').textContent=theta.toFixed(1)+'° linkage angle';document.getElementById('travel').textContent='Carriage rise: '+rise.toFixed(1)+' mm';statusEl.textContent=D.parts.length+' digital instances · '+(onlyGears?'gearbox inspection':'complete lift module')+(explode?' · layers separated':'');document.body.dataset.render='ok';document.body.dataset.pose=String(pose);document.body.dataset.glError=String(gl.getError());}
+let pending=false;function redraw(){if(!pending){pending=true;requestAnimationFrame(()=>{pending=false;draw();});}}
+let pointer=null;canvas.onpointerdown=e=>{pointer=[e.clientX,e.clientY];canvas.setPointerCapture(e.pointerId);};canvas.onpointermove=e=>{if(pointer){yaw-=(e.clientX-pointer[0])*.008;pitch=Math.max(-1.2,Math.min(1.4,pitch+(e.clientY-pointer[1])*.008));pointer=[e.clientX,e.clientY];redraw();}};canvas.onpointerup=()=>pointer=null;canvas.onpointercancel=()=>pointer=null;canvas.onwheel=e=>{e.preventDefault();distance=Math.max(110,Math.min(850,distance*Math.exp(e.deltaY*.001)));redraw();};
+document.getElementById('pose').oninput=redraw;document.getElementById('explode').oninput=redraw;document.getElementById('low').onclick=()=>{document.getElementById('pose').value=0;redraw();};document.getElementById('high').onclick=()=>{document.getElementById('pose').value=70;redraw();};document.getElementById('all').onclick=()=>{onlyGears=false;redraw();};document.getElementById('gears').onclick=()=>{onlyGears=true;redraw();};document.getElementById('reset').onclick=()=>{yaw=-.9;pitch=.43;distance=310;document.getElementById('explode').value=0;onlyGears=false;redraw();};window.onresize=redraw;
+const params=new URLSearchParams(location.search);if(params.get('pose')==='raised')document.getElementById('pose').value=70;if(params.get('mode')==='gears')onlyGears=true;draw();
+</script></html>
